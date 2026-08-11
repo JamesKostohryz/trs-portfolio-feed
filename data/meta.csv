@@ -1,0 +1,7 @@
+field,value
+generated_utc,2026-08-10T23:54:02Z
+ledger_through,2026-08-10
+income_through,2026-07-29
+transaction_count,187
+cost_basis_method,FIFO
+excludes,"options, margin interest, margin transfers"
