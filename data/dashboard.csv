@@ -2,16 +2,16 @@ metric,value
 inception,2023-11-29
 initial_capital,182681.81
 cash,64018.64
-securities_market_value,187509.75
-nav,251528.39
+securities_market_value,186465.25
+nav,250483.89
 total_income_to_date,8625.79
-total_return_incl_income,0.376866
+total_return_incl_income,0.371148
 num_positions,15
-cash_weight,0.254519
-region_US,0.467925
-region_International,0.277557
-sector_Energy,0.410529
-sector_Commodity/Energy,0.268061
-sector_Volatility,0.053712
-sector_Basic Materials,0.013179
-region_Cash,0.254519
+cash_weight,0.255580
+region_US,0.467932
+region_International,0.276488
+sector_Energy,0.411822
+sector_Commodity/Energy,0.267927
+sector_Volatility,0.052454
+sector_Basic Materials,0.012216
+region_Cash,0.255580
