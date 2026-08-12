@@ -1,16 +1,16 @@
 ticker,name,shares,avg_cost_fifo,cost_basis_fifo,last_price,market_value,weight,unrealized_pnl,return_pct,sector,region,theme,price_asof
-BNO,US Brent Oil Fund,1200,47.0273,56432.72,50.0950,60114.00,0.240748,3681.28,0.065233,Commodity/Energy,US,Crude Oil (beta),2026-08-10
-XOP,SPDR S&P Oil & Gas E&P ETF,140,175.9764,24636.70,175.9500,24633.00,0.098652,-3.70,-0.000150,Energy,US,Oil & Gas Producers,2026-08-10
-VIXY,ProShares VIX S-T,700,28.0600,19642.00,19.5000,13650.00,0.054666,-5992.00,-0.305061,Volatility,US,Volatility Hedge,2026-08-10
-PBR,Petrobras,700,12.7868,8950.76,18.3400,12838.00,0.051414,3887.24,0.434292,Energy,International,Oil & Gas Producers,2026-08-10
-PBF,PBF Energy,170,50.3374,8557.35,66.2800,11267.60,0.045125,2710.25,0.316716,Energy,US,Refining,2026-08-10
-YPF,YPF S.A.,200,37.6450,7529.00,50.9200,10184.00,0.040785,2655.00,0.352636,Energy,International,Oil & Gas Producers,2026-08-10
-EQNR,Equinor ASA,220,38.0595,8373.08,41.0000,9020.00,0.036124,646.92,0.077262,Energy,International,Oil & Gas Producers,2026-08-10
-AKRVF,Aker BP ASA,250,31.6660,7916.50,35.1400,8785.00,0.035183,868.50,0.109708,Energy,International,Oil & Gas Producers,2026-08-10
-VIST,Vista Energy,120,72.3933,8687.20,68.3700,8204.40,0.032857,-482.80,-0.055576,Energy,International,Oil & Gas Producers,2026-08-10
-UCO,ProShares Ultra Bloomberg Crude Oil,150,40.9450,6141.75,41.2300,6184.50,0.024768,42.75,0.006961,Commodity/Energy,US,Crude Oil (2x leveraged),2026-08-10
-REPYY,Repsol S.A.,200,25.7165,5143.30,29.8100,5962.00,0.023877,818.70,0.159178,Energy,International,Oil & Gas Producers,2026-08-10
-VARRY,Var Energi ASA,625,7.8400,4900.00,9.1000,5687.50,0.022778,787.50,0.160714,Energy,International,Oil & Gas Producers,2026-08-10
-VLERF,Valeura Energy,400,9.0300,3612.00,8.7400,3496.00,0.014001,-116.00,-0.032115,Energy,International,Oil & Gas Producers,2026-08-10
-BAK,Braskem S.A.,1500,3.5050,5257.50,2.2300,3345.00,0.013396,-1912.50,-0.363766,Basic Materials,International,Petrochemicals,2026-08-10
-WDS,Woodside Energy,100,23.9100,2391.00,23.0700,2307.00,0.009239,-84.00,-0.035132,Energy,International,Oil & Gas Producers,2026-08-10
+BNO,US Brent Oil Fund,1200,47.0273,56432.72,50.9600,61152.00,0.243122,4719.28,0.083627,Commodity/Energy,US,Crude Oil (beta),2026-08-11
+XOP,SPDR S&P Oil & Gas E&P ETF,140,175.9764,24636.70,178.3700,24971.80,0.099280,335.10,0.013602,Energy,US,Oil & Gas Producers,2026-08-11
+VIXY,ProShares VIX S-T,700,28.0600,19642.00,19.3000,13510.00,0.053712,-6132.00,-0.312188,Volatility,US,Volatility Hedge,2026-08-11
+PBR,Petrobras,700,12.7868,8950.76,17.9300,12551.00,0.049899,3600.24,0.402227,Energy,International,Oil & Gas Producers,2026-08-11
+PBF,PBF Energy,170,50.3374,8557.35,69.3500,11789.50,0.046871,3232.15,0.377705,Energy,US,Refining,2026-08-11
+YPF,YPF S.A.,200,37.6450,7529.00,49.1500,9830.00,0.039081,2301.00,0.305618,Energy,International,Oil & Gas Producers,2026-08-11
+AKRVF,Aker BP ASA,250,31.6660,7916.50,36.5500,9137.50,0.036328,1221.00,0.154235,Energy,International,Oil & Gas Producers,2026-08-11
+EQNR,Equinor ASA,220,38.0595,8373.08,40.9300,9004.60,0.035800,631.52,0.075423,Energy,International,Oil & Gas Producers,2026-08-11
+VIST,Vista Energy,120,72.3933,8687.20,66.1300,7935.60,0.031550,-751.60,-0.086518,Energy,International,Oil & Gas Producers,2026-08-11
+UCO,ProShares Ultra Bloomberg Crude Oil,150,40.9450,6141.75,41.8200,6273.00,0.024940,131.25,0.021370,Commodity/Energy,US,Crude Oil (2x leveraged),2026-08-11
+VARRY,Var Energi ASA,625,7.8400,4900.00,9.7500,6093.75,0.024227,1193.75,0.243622,Energy,International,Oil & Gas Producers,2026-08-11
+REPYY,Repsol S.A.,200,25.7165,5143.30,30.3800,6076.00,0.024156,932.70,0.181343,Energy,International,Oil & Gas Producers,2026-08-11
+VLERF,Valeura Energy,400,9.0300,3612.00,8.8500,3540.00,0.014074,-72.00,-0.019934,Energy,International,Oil & Gas Producers,2026-08-11
+BAK,Braskem S.A.,1500,3.5050,5257.50,2.2100,3315.00,0.013179,-1942.50,-0.369472,Basic Materials,International,Petrochemicals,2026-08-11
+WDS,Woodside Energy,100,23.9100,2391.00,23.3000,2330.00,0.009263,-61.00,-0.025512,Energy,International,Oil & Gas Producers,2026-08-11
