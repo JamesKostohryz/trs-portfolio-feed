@@ -5,4 +5,4 @@ income_through,2026-08-14
 transaction_count,228
 cost_basis_method,FIFO
 opening_basis,"2023-11-30 market value, per November 2023 statement"
-excludes,"options, margin interest, external deposits and withdrawals"
+excludes,"options and external deposits and withdrawals. Negative cash balances are charged the 3-month T-bill yield plus 100bp, so the cost of leverage IS reflected in the record"
