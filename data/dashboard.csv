@@ -1,17 +1,21 @@
 metric,value
-inception,2023-11-29
-initial_capital,182681.81
-cash,64018.64
+inception,2023-11-30
+initial_capital,170635.08
+cash,68135.81
 securities_market_value,186204.60
-nav,250223.24
-total_income_to_date,8625.79
-total_return_incl_income,0.369722
+nav,254340.41
+total_income_to_date,15864.82
+total_realized_gains,59889.31
+total_return_incl_income,0.490552
 num_positions,15
-cash_weight,0.255846
-region_US,0.466428
-region_International,0.277726
-sector_Energy,0.416083
-sector_Commodity/Energy,0.262901
-sector_Volatility,0.052761
-sector_Basic Materials,0.012409
-region_Cash,0.255846
+cash_weight,0.267892
+minimum_cash,-75066.11
+minimum_cash_date,2024-08-14
+peak_gross_exposure_pct_of_initial_capital,0.439922
+region_US,0.458877
+region_International,0.273231
+sector_Energy,0.409347
+sector_Commodity/Energy,0.258645
+sector_Volatility,0.051907
+sector_Basic Materials,0.012208
+region_Cash,0.267892

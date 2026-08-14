@@ -1,7 +1,8 @@
 field,value
-generated_utc,2026-08-13T22:08:38Z
+generated_utc,2026-08-14T01:47:58Z
 ledger_through,2026-08-10
-income_through,2026-07-29
-transaction_count,187
+income_through,2026-08-13
+transaction_count,228
 cost_basis_method,FIFO
-excludes,"options, margin interest, margin transfers"
+opening_basis,"2023-11-30 market value, per November 2023 statement"
+excludes,"options, margin interest, external deposits and withdrawals"

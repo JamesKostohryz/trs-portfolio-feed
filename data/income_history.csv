@@ -1,0 +1,1054 @@
+date,ticker,amount,era
+2020-05-26,CASH,0.47,pre-inception
+2020-06-26,CASH,0.81,pre-inception
+2020-07-27,CASH,0.81,pre-inception
+2020-08-26,CASH,0.83,pre-inception
+2020-09-28,CASH,1.1,pre-inception
+2020-10-26,CASH,0.91,pre-inception
+2020-11-27,CASH,1.0,pre-inception
+2020-12-10,XOM,147.9,pre-inception
+2020-12-28,CASH,0.89,pre-inception
+2020-12-28,GDX,75.96,pre-inception
+2020-12-28,GDXJ,85.54,pre-inception
+2021-01-26,CASH,0.83,pre-inception
+2021-02-16,MLPA,206.25,pre-inception
+2021-02-26,CASH,0.85,pre-inception
+2021-03-10,XOM,147.9,pre-inception
+2021-03-15,GOLD,7.65,pre-inception
+2021-03-15,TPRFF,4.09,pre-inception
+2021-03-18,DRD,39.42,pre-inception
+2021-03-18,KGC,7.65,pre-inception
+2021-03-18,NEM,55.0,pre-inception
+2021-03-22,VALE,183.61,pre-inception
+2021-03-25,GFI,37.55,pre-inception
+2021-03-26,BP,52.7,pre-inception
+2021-03-26,CASH,0.39,pre-inception
+2021-03-31,SSRM,5.1,pre-inception
+2021-04-01,SBSW,68.92,pre-inception
+2021-04-05,AU,33.54,pre-inception
+2021-04-08,BBD,2.8,pre-inception
+2021-04-14,AUY,8.92,pre-inception
+2021-04-14,KL,8.76,pre-inception
+2021-04-15,TPRFF,4.07,pre-inception
+2021-04-26,CASH,0.39,pre-inception
+2021-04-26,LIFZF,47.98,pre-inception
+2021-05-06,PBR,199.19,pre-inception
+2021-05-10,BBD,3.01,pre-inception
+2021-05-17,MLPA,193.75,pre-inception
+2021-05-17,TPRFF,4.21,pre-inception
+2021-05-26,CASH,0.38,pre-inception
+2021-06-08,BBD,3.39,pre-inception
+2021-06-10,XOM,147.9,pre-inception
+2021-06-14,SSRM,5.1,pre-inception
+2021-06-15,GOLD,21.7,pre-inception
+2021-06-15,TPRFF,4.18,pre-inception
+2021-06-17,KGC,7.65,pre-inception
+2021-06-17,NEM,55.0,pre-inception
+2021-06-18,BP,52.7,pre-inception
+2021-06-28,CASH,0.42,pre-inception
+2021-07-01,TEF,167.73,pre-inception
+2021-07-07,REPYF,86.04,pre-inception
+2021-07-08,BBD,3.59,pre-inception
+2021-07-08,VALE,109.39,pre-inception
+2021-07-14,AUY,8.92,pre-inception
+2021-07-14,KL,8.76,pre-inception
+2021-07-16,ACAZF,29.41,pre-inception
+2021-07-21,BBD,84.4,pre-inception
+2021-07-23,TPRFF,4.05,pre-inception
+2021-07-26,CASH,0.35,pre-inception
+2021-07-26,LIFZF,82.98,pre-inception
+2021-08-09,BBD,3.5,pre-inception
+2021-08-16,MLPA,181.25,pre-inception
+2021-08-16,TPRFF,4.05,pre-inception
+2021-08-26,CASH,0.31,pre-inception
+2021-09-01,PBR,425.53,pre-inception
+2021-09-02,KGC,7.65,pre-inception
+2021-09-08,BBD,3.42,pre-inception
+2021-09-10,XOM,147.9,pre-inception
+2021-09-13,SSRM,5.1,pre-inception
+2021-09-15,GOLD,21.7,pre-inception
+2021-09-15,TPRFF,4.03,pre-inception
+2021-09-20,AU,4.39,pre-inception
+2021-09-23,GFI,26.01,pre-inception
+2021-09-23,NEM,55.0,pre-inception
+2021-09-23,VEDL,148.77,pre-inception
+2021-09-23,XES,4.93,pre-inception
+2021-09-23,XOP,17.26,pre-inception
+2021-09-24,BP,54.84,pre-inception
+2021-09-27,CASH,0.22,pre-inception
+2021-09-30,HES,12.5,pre-inception
+2021-09-30,PXJ,6.48,pre-inception
+2021-09-30,SBSW,125.96,pre-inception
+2021-10-07,DRD,40.38,pre-inception
+2021-10-07,SLB,18.75,pre-inception
+2021-10-08,VALE,376.61,pre-inception
+2021-10-12,BBD,3.27,pre-inception
+2021-10-14,AUY,10.2,pre-inception
+2021-10-15,ACAZF,29.83,pre-inception
+2021-10-15,TPRFF,4.12,pre-inception
+2021-10-18,KL,8.76,pre-inception
+2021-10-26,CASH,0.23,pre-inception
+2021-10-26,LIFZF,100.93,pre-inception
+2021-11-08,BBD,3.16,pre-inception
+2021-11-15,MLPA,181.25,pre-inception
+2021-11-15,TPRFF,4.07,pre-inception
+2021-11-22,APA,9.38,pre-inception
+2021-11-26,CASH,0.33,pre-inception
+2021-12-08,BBD,3.15,pre-inception
+2021-12-10,XOM,149.6,pre-inception
+2021-12-13,SSRM,5.1,pre-inception
+2021-12-15,GOLD,21.7,pre-inception
+2021-12-15,KGC,7.65,pre-inception
+2021-12-15,TPRFF,3.94,pre-inception
+2021-12-17,BP,54.84,pre-inception
+2021-12-22,PBR,752.78,pre-inception
+2021-12-23,XES,3.96,pre-inception
+2021-12-27,CASH,0.24,pre-inception
+2021-12-27,GDX,173.81,pre-inception
+2021-12-27,GDXJ,43.23,pre-inception
+2021-12-28,NEM,55.0,pre-inception
+2021-12-30,HES,12.5,pre-inception
+2021-12-30,MJ,25.75,pre-inception
+2021-12-30,TEF,116.73,pre-inception
+2022-01-10,BBD,40.26,pre-inception
+2022-01-13,BBD,3.18,pre-inception
+2022-01-13,SLB,18.75,pre-inception
+2022-01-14,ACAZF,29.48,pre-inception
+2022-01-14,AUY,10.2,pre-inception
+2022-01-18,TPRFF,4.06,pre-inception
+2022-01-19,KL,8.76,pre-inception
+2022-01-26,CASH,0.27,pre-inception
+2022-02-08,BBD,2.9,pre-inception
+2022-02-15,MLPA,181.25,pre-inception
+2022-02-15,TPRFF,3.99,pre-inception
+2022-02-25,C,35.7,pre-inception
+2022-02-28,CASH,0.34,pre-inception
+2022-03-09,BBD,3.06,pre-inception
+2022-03-10,XOM,149.6,pre-inception
+2022-03-15,AEM,14.62,pre-inception
+2022-03-15,ARCH,8.75,pre-inception
+2022-03-15,GOLD,8.5,pre-inception
+2022-03-15,TPRFF,3.99,pre-inception
+2022-03-21,PAAS,17.34,pre-inception
+2022-03-23,VALE,181.23,pre-inception
+2022-03-24,DRD,19.91,pre-inception
+2022-03-24,GFI,30.28,pre-inception
+2022-03-24,KGC,7.65,pre-inception
+2022-03-24,NEM,55.0,pre-inception
+2022-03-24,XES,6.56,pre-inception
+2022-03-24,XOP,28.88,pre-inception
+2022-03-25,BP,54.84,pre-inception
+2022-03-29,IMPUY,58.02,pre-inception
+2022-03-30,HES,18.75,pre-inception
+2022-04-04,AU,10.69,pre-inception
+2022-04-04,SSRM,7.14,pre-inception
+2022-04-07,SBSW,109.92,pre-inception
+2022-04-08,BBD,3.29,pre-inception
+2022-04-14,AUY,10.2,pre-inception
+2022-04-18,TPRFF,6.06,pre-inception
+2022-04-19,ACAZF,29.27,pre-inception
+2022-04-26,CASH,0.04,pre-inception
+2022-05-09,BBD,3.12,pre-inception
+2022-05-16,CASH,0.17,pre-inception
+2022-05-16,MLPA,187.5,pre-inception
+2022-05-16,TPRFF,5.94,pre-inception
+2022-05-17,CASH,0.01,pre-inception
+2022-05-23,CEFD,169.23,pre-inception
+2022-05-23,PBR,450.85,pre-inception
+2022-05-24,PBR,13.82,pre-inception
+2022-05-27,EQNR,35.4,pre-inception
+2022-06-03,PAAS,17.34,pre-inception
+2022-06-06,GLNCY,88.4,pre-inception
+2022-06-10,XOM,149.6,pre-inception
+2022-06-15,ARCH,364.95,pre-inception
+2022-06-15,TPRFF,5.9,pre-inception
+2022-06-27,CASH,0.65,pre-inception
+2022-07-14,SLB,26.25,pre-inception
+2022-07-26,CASH,1.51,pre-inception
+2022-08-26,CASH,1.6,pre-inception
+2022-09-15,MOS,15.0,pre-inception
+2022-09-26,CASH,0.8,pre-inception
+2022-09-30,WIW,155.0,pre-inception
+2022-10-06,EDV,150.13,pre-inception
+2022-10-06,ZROZ,126.0,pre-inception
+2022-10-26,CASH,0.27,pre-inception
+2022-10-31,WIA,49.5,pre-inception
+2022-10-31,WIW,55.0,pre-inception
+2022-11-14,CASH,0.01,pre-inception
+2022-11-23,CEIX,126.0,pre-inception
+2022-11-30,WIA,49.5,pre-inception
+2022-11-30,WIW,55.0,pre-inception
+2022-12-06,LTPZ,132.0,pre-inception
+2022-12-22,XLE,-77.37,pre-inception
+2022-12-27,CASH,0.25,pre-inception
+2022-12-28,FAZ,0.19,pre-inception
+2022-12-29,EDV,152.11,pre-inception
+2022-12-30,EPV,50.27,pre-inception
+2022-12-30,WIA,297.0,pre-inception
+2022-12-30,WIW,240.5,pre-inception
+2023-01-26,CASH,0.69,pre-inception
+2023-02-27,CASH,0.96,pre-inception
+2023-03-27,CASH,0.83,pre-inception
+2023-04-06,LTPZ,231.0,pre-inception
+2023-04-26,CASH,0.84,pre-inception
+2023-05-04,LTPZ,385.0,pre-inception
+2023-05-26,CASH,0.17,pre-inception
+2023-06-06,LTPZ,408.0,pre-inception
+2023-06-08,MSFT,10.2,pre-inception
+2023-06-13,XT,21.15,pre-inception
+2023-06-26,CASH,0.02,pre-inception
+2023-06-28,SDS,187.66,pre-inception
+2023-07-07,LTPZ,612.0,pre-inception
+2023-07-10,AIQ,9.08,pre-inception
+2023-07-26,CASH,0.03,pre-inception
+2023-08-04,LTPZ,255.0,pre-inception
+2023-08-28,CASH,0.03,pre-inception
+2023-09-14,MSFT,10.2,pre-inception
+2023-10-05,LTPZ,204.0,pre-inception
+2023-11-06,LTPZ,493.0,pre-inception
+2023-12-01,TBILL,5.99,model era
+2023-12-04,TBILL,6.02,model era
+2023-12-05,TBILL,6.01,model era
+2023-12-06,LTPZ,289.0,model era
+2023-12-06,TBILL,6.01,model era
+2023-12-07,TBILL,6.09,model era
+2023-12-08,TBILL,6.09,model era
+2023-12-11,TBILL,4.01,model era
+2023-12-12,TBILL,4.0,model era
+2023-12-13,TBILL,-1.79,model era
+2023-12-14,TBILL,3.88,model era
+2023-12-15,TBILL,3.89,model era
+2023-12-18,TBILL,3.91,model era
+2023-12-19,TBILL,3.89,model era
+2023-12-20,TBILL,3.9,model era
+2023-12-21,TBILL,3.88,model era
+2023-12-22,TBILL,3.9,model era
+2023-12-26,TBILL,3.91,model era
+2023-12-27,TBILL,3.9,model era
+2023-12-28,TBILL,3.91,model era
+2023-12-29,TBILL,3.87,model era
+2024-01-02,BTE,14.3,model era
+2024-01-02,TBILL,3.92,model era
+2024-01-02,VRN,31.91,model era
+2024-01-03,TBILL,3.94,model era
+2024-01-04,TBILL,3.94,model era
+2024-01-05,TBILL,3.94,model era
+2024-01-08,TBILL,3.95,model era
+2024-01-09,TBILL,3.94,model era
+2024-01-10,TBILL,3.93,model era
+2024-01-11,TBILL,3.93,model era
+2024-01-12,TBILL,3.93,model era
+2024-01-16,FRHLF,22.67,model era
+2024-01-16,PEYUF,27.71,model era
+2024-01-16,TBILL,3.93,model era
+2024-01-16,VET,18.89,model era
+2024-01-17,TBILL,2.94,model era
+2024-01-18,TBILL,2.93,model era
+2024-01-19,TBILL,2.93,model era
+2024-01-22,IRS,334.29,model era
+2024-01-22,TBILL,2.94,model era
+2024-01-23,TBILL,3.01,model era
+2024-01-24,TBILL,3.0,model era
+2024-01-25,TBILL,3.0,model era
+2024-01-26,TBILL,3.0,model era
+2024-01-29,TBILL,2.99,model era
+2024-01-30,TBILL,2.99,model era
+2024-01-31,TBILL,3.0,model era
+2024-02-01,TBILL,8.01,model era
+2024-02-02,TBILL,8.03,model era
+2024-02-05,CRESY,148.3,model era
+2024-02-05,TBILL,8.01,model era
+2024-02-06,TBILL,8.08,model era
+2024-02-07,IRS,0.29,model era
+2024-02-07,TBILL,8.06,model era
+2024-02-08,TBILL,8.08,model era
+2024-02-09,CRESY,-0.2,model era
+2024-02-09,TBILL,8.08,model era
+2024-02-12,TBILL,8.07,model era
+2024-02-13,TBILL,8.1,model era
+2024-02-14,TBILL,8.07,model era
+2024-02-15,FRHLF,22.68,model era
+2024-02-15,PEYUF,27.71,model era
+2024-02-15,TBILL,8.07,model era
+2024-02-16,TBILL,8.1,model era
+2024-02-20,CRESY,-0.95,model era
+2024-02-20,TBILL,8.1,model era
+2024-02-21,TBILL,8.1,model era
+2024-02-22,TBILL,8.12,model era
+2024-02-23,TBILL,8.14,model era
+2024-02-26,TBILL,8.15,model era
+2024-02-27,TBILL,8.13,model era
+2024-02-28,TBILL,8.13,model era
+2024-02-29,TBILL,8.13,model era
+2024-03-01,TBILL,8.09,model era
+2024-03-04,TBILL,8.18,model era
+2024-03-05,TBILL,8.16,model era
+2024-03-06,TBILL,8.17,model era
+2024-03-07,TBILL,8.17,model era
+2024-03-08,TBILL,8.16,model era
+2024-03-11,TBILL,8.19,model era
+2024-03-12,TBILL,8.19,model era
+2024-03-13,TBILL,8.19,model era
+2024-03-14,TBILL,8.19,model era
+2024-03-15,FRHLF,22.58,model era
+2024-03-15,PEYUF,27.61,model era
+2024-03-15,TBILL,8.19,model era
+2024-03-18,TBILL,8.21,model era
+2024-03-19,TBILL,8.21,model era
+2024-03-20,TBILL,8.2,model era
+2024-03-21,TBILL,8.21,model era
+2024-03-22,TBILL,8.18,model era
+2024-03-25,TBILL,8.19,model era
+2024-03-26,TBILL,8.19,model era
+2024-03-27,TBILL,8.17,model era
+2024-03-28,TBILL,8.19,model era
+2024-04-01,BTE,14.13,model era
+2024-04-01,TBILL,8.16,model era
+2024-04-01,VRN,35.97,model era
+2024-04-02,TBILL,8.15,model era
+2024-04-03,TBILL,8.15,model era
+2024-04-04,LTPZ,476.0,model era
+2024-04-04,TBILL,8.13,model era
+2024-04-05,TBILL,8.27,model era
+2024-04-08,TBILL,5.35,model era
+2024-04-09,TBILL,5.35,model era
+2024-04-10,TBILL,3.3,model era
+2024-04-11,TBILL,3.3,model era
+2024-04-12,TBILL,3.3,model era
+2024-04-15,FRHLF,22.22,model era
+2024-04-15,PEYUF,27.16,model era
+2024-04-15,TBILL,-3.65,model era
+2024-04-15,VET,22.22,model era
+2024-04-16,TBILL,-7.73,model era
+2024-04-17,TBILL,-10.43,model era
+2024-04-18,TBILL,-10.45,model era
+2024-04-19,TBILL,-10.43,model era
+2024-04-22,TBILL,-10.39,model era
+2024-04-23,TBILL,-10.44,model era
+2024-04-24,TBILL,-10.46,model era
+2024-04-25,TBILL,-10.48,model era
+2024-04-26,TBILL,-10.46,model era
+2024-04-29,TBILL,-10.45,model era
+2024-04-30,TBILL,-10.47,model era
+2024-05-01,TBILL,-10.47,model era
+2024-05-02,TBILL,-10.47,model era
+2024-05-03,TBILL,-10.46,model era
+2024-05-06,LTPZ,612.0,model era
+2024-05-06,TBILL,-10.46,model era
+2024-05-07,TBILL,-13.6,model era
+2024-05-08,TBILL,-13.61,model era
+2024-05-09,TBILL,-13.63,model era
+2024-05-10,TBILL,-13.66,model era
+2024-05-13,TBILL,-13.62,model era
+2024-05-14,TBILL,-13.6,model era
+2024-05-15,FRHLF,22.49,model era
+2024-05-15,PEYUF,27.49,model era
+2024-05-15,TBILL,-13.62,model era
+2024-05-16,CRLFF,29.9,model era
+2024-05-16,TBILL,-13.62,model era
+2024-05-17,TBILL,-13.63,model era
+2024-05-20,TBILL,-13.61,model era
+2024-05-21,TBILL,-13.62,model era
+2024-05-22,TBILL,-13.62,model era
+2024-05-23,TBILL,-17.9,model era
+2024-05-24,TBILL,-17.9,model era
+2024-05-28,TBILL,-17.9,model era
+2024-05-29,TBILL,-17.91,model era
+2024-05-30,TBILL,-17.91,model era
+2024-05-31,TBILL,-17.92,model era
+2024-06-03,TBILL,-18.09,model era
+2024-06-04,TBILL,-18.09,model era
+2024-06-04,YPF,-6.0,model era
+2024-06-05,BTU,15.0,model era
+2024-06-05,LTPZ,799.0,model era
+2024-06-05,TBILL,-18.07,model era
+2024-06-06,TBILL,-17.87,model era
+2024-06-07,TBILL,-17.9,model era
+2024-06-10,TBILL,-17.9,model era
+2024-06-11,TBILL,-17.91,model era
+2024-06-12,TBILL,-17.89,model era
+2024-06-13,TBILL,-17.89,model era
+2024-06-14,PEYUF,27.21,model era
+2024-06-14,TBILL,-17.89,model era
+2024-06-17,CRLFF,29.66,model era
+2024-06-17,FRHLF,22.26,model era
+2024-06-17,TBILL,-17.92,model era
+2024-06-18,TBILL,-17.86,model era
+2024-06-20,IRS,233.82,model era
+2024-06-20,TBILL,-17.86,model era
+2024-06-21,TBILL,-17.78,model era
+2024-06-24,CRESY,146.13,model era
+2024-06-24,TBILL,-17.81,model era
+2024-06-25,IRS,-0.31,model era
+2024-06-25,TBILL,-17.75,model era
+2024-06-26,TBILL,-17.78,model era
+2024-06-26,XOP,77.72,model era
+2024-06-27,TBILL,-17.74,model era
+2024-06-28,PXJ,178.03,model era
+2024-06-28,TBILL,-17.72,model era
+2024-07-01,TBILL,-17.65,model era
+2024-07-02,BTE,13.92,model era
+2024-07-02,TBILL,-17.65,model era
+2024-07-02,VRN,35.7,model era
+2024-07-03,LTPZ,442.0,model era
+2024-07-03,SDS,222.19,model era
+2024-07-03,TBILL,-17.64,model era
+2024-07-05,TBILL,-17.45,model era
+2024-07-08,TBILL,-17.45,model era
+2024-07-09,TBILL,-17.46,model era
+2024-07-10,TBILL,-17.46,model era
+2024-07-11,TBILL,-17.41,model era
+2024-07-12,TBILL,-17.39,model era
+2024-07-15,FRHLF,22.36,model era
+2024-07-15,PEYUF,27.32,model era
+2024-07-15,TBILL,-17.4,model era
+2024-07-15,VET,22.36,model era
+2024-07-16,CRLFF,29.95,model era
+2024-07-16,TBILL,-17.38,model era
+2024-07-17,TBILL,-17.38,model era
+2024-07-18,TBILL,-17.38,model era
+2024-07-19,TBILL,-17.39,model era
+2024-07-22,TBILL,-17.39,model era
+2024-07-23,TBILL,-17.34,model era
+2024-07-24,TBILL,-17.32,model era
+2024-07-25,TBILL,-17.3,model era
+2024-07-26,TBILL,-17.27,model era
+2024-07-29,TBILL,-17.36,model era
+2024-07-30,TBILL,-17.34,model era
+2024-07-31,TBILL,-17.37,model era
+2024-08-01,TBILL,-17.27,model era
+2024-08-02,LOMA,-14.0,model era
+2024-08-02,TBILL,-17.05,model era
+2024-08-05,LTPZ,204.0,model era
+2024-08-05,TBILL,-15.96,model era
+2024-08-06,TBILL,-15.89,model era
+2024-08-07,TBILL,-15.89,model era
+2024-08-08,TBILL,-15.9,model era
+2024-08-09,TBILL,-15.88,model era
+2024-08-12,TBILL,-15.88,model era
+2024-08-13,TBILL,-15.86,model era
+2024-08-14,TBILL,-15.86,model era
+2024-08-15,FRHLF,22.3,model era
+2024-08-15,PEYUF,27.29,model era
+2024-08-15,TBILL,-18.89,model era
+2024-08-16,CRLFF,29.8,model era
+2024-08-16,TBILL,-13.32,model era
+2024-08-19,TBILL,-13.27,model era
+2024-08-20,TBILL,-13.23,model era
+2024-08-21,TBILL,-13.17,model era
+2024-08-22,TBILL,-13.22,model era
+2024-08-23,TBILL,-13.16,model era
+2024-08-26,TBILL,-13.14,model era
+2024-08-27,TBILL,-13.12,model era
+2024-08-28,TBILL,-13.08,model era
+2024-08-29,TBILL,-13.11,model era
+2024-08-30,TBILL,-13.09,model era
+2024-09-03,TBILL,-13.05,model era
+2024-09-04,BTU,15.0,model era
+2024-09-04,TBILL,-13.03,model era
+2024-09-05,LTPZ,68.0,model era
+2024-09-05,TBILL,-12.97,model era
+2024-09-06,TBILL,-12.91,model era
+2024-09-09,TBILL,-12.87,model era
+2024-09-10,TBILL,-12.77,model era
+2024-09-11,TBILL,-12.86,model era
+2024-09-12,TBILL,-12.78,model era
+2024-09-13,CNR,15.0,model era
+2024-09-13,PEYUF,27.51,model era
+2024-09-13,TBILL,-12.59,model era
+2024-09-16,FRHLF,22.51,model era
+2024-09-16,TBILL,-12.56,model era
+2024-09-17,CRLFF,30.05,model era
+2024-09-17,TBILL,-12.54,model era
+2024-09-18,TBILL,-12.3,model era
+2024-09-19,TBILL,-12.22,model era
+2024-09-20,TBILL,-12.12,model era
+2024-09-23,TBILL,-12.06,model era
+2024-09-24,TBILL,-12.0,model era
+2024-09-25,TBILL,-12.0,model era
+2024-09-25,XOP,89.59,model era
+2024-09-26,TBILL,-11.96,model era
+2024-09-27,PXJ,132.04,model era
+2024-09-27,TBILL,-11.96,model era
+2024-09-30,TBILL,-12.04,model era
+2024-10-01,BTE,14.06,model era
+2024-10-01,TBILL,-12.0,model era
+2024-10-01,VRN,36.16,model era
+2024-10-02,TBILL,-14.97,model era
+2024-10-03,LTPZ,153.0,model era
+2024-10-03,TBILL,-14.95,model era
+2024-10-04,TBILL,5.87,model era
+2024-10-07,TBILL,4.68,model era
+2024-10-08,TBILL,4.66,model era
+2024-10-09,TBILL,4.66,model era
+2024-10-10,TBILL,4.66,model era
+2024-10-11,TBILL,4.64,model era
+2024-10-14,TBILL,4.64,model era
+2024-10-15,FRHLF,22.17,model era
+2024-10-15,PEYUF,27.09,model era
+2024-10-15,TBILL,4.65,model era
+2024-10-15,VET,22.16,model era
+2024-10-16,CRLFF,29.59,model era
+2024-10-16,TBILL,4.65,model era
+2024-10-17,TBILL,4.68,model era
+2024-10-18,TBILL,4.67,model era
+2024-10-21,TBILL,4.67,model era
+2024-10-22,TBILL,4.66,model era
+2024-10-23,TBILL,4.67,model era
+2024-10-24,TBILL,4.64,model era
+2024-10-25,TBILL,4.67,model era
+2024-10-28,TBILL,4.64,model era
+2024-10-29,TBILL,4.64,model era
+2024-10-30,TBILL,4.61,model era
+2024-10-31,TBILL,4.59,model era
+2024-11-01,TBILL,4.56,model era
+2024-11-04,TBILL,4.6,model era
+2024-11-05,TBILL,4.59,model era
+2024-11-06,TBILL,4.59,model era
+2024-11-07,TBILL,4.58,model era
+2024-11-07,VIXY,-38.0,model era
+2024-11-08,TBILL,4.57,model era
+2024-11-11,TBILL,4.57,model era
+2024-11-12,TBILL,4.58,model era
+2024-11-13,TBILL,4.55,model era
+2024-11-14,TBILL,4.56,model era
+2024-11-15,FRHLF,21.72,model era
+2024-11-15,PEYUF,26.55,model era
+2024-11-15,TBILL,4.55,model era
+2024-11-18,CRLFF,29.12,model era
+2024-11-18,TBILL,4.59,model era
+2024-11-19,TBILL,4.58,model era
+2024-11-20,TBILL,4.59,model era
+2024-11-21,TBILL,4.6,model era
+2024-11-22,TBILL,4.6,model era
+2024-11-25,TBILL,4.59,model era
+2024-11-26,CNR,15.0,model era
+2024-11-26,TBILL,4.58,model era
+2024-11-27,TBILL,4.57,model era
+2024-11-29,TBILL,4.55,model era
+2024-12-02,TBILL,4.48,model era
+2024-12-03,TBILL,4.47,model era
+2024-12-04,BTU,15.0,model era
+2024-12-04,TBILL,4.45,model era
+2024-12-05,TBILL,4.44,model era
+2024-12-06,TBILL,4.4,model era
+2024-12-09,TBILL,4.4,model era
+2024-12-10,CRESY,237.59,model era
+2024-12-10,TBILL,4.39,model era
+2024-12-11,TBILL,4.4,model era
+2024-12-12,TBILL,4.37,model era
+2024-12-13,PEYUF,26.26,model era
+2024-12-13,TBILL,4.37,model era
+2024-12-16,FRHLF,21.5,model era
+2024-12-16,TBILL,4.4,model era
+2024-12-17,CRLFF,28.65,model era
+2024-12-17,TBILL,4.42,model era
+2024-12-18,TBILL,4.4,model era
+2024-12-19,TBILL,4.39,model era
+2024-12-20,TBILL,4.38,model era
+2024-12-23,TBILL,6.58,model era
+2024-12-24,GDX,402.5,model era
+2024-12-24,TBILL,6.64,model era
+2024-12-26,TBILL,6.63,model era
+2024-12-26,XOP,161.52,model era
+2024-12-27,PXJ,106.02,model era
+2024-12-27,TBILL,6.6,model era
+2024-12-30,TBILL,6.71,model era
+2024-12-31,TBILL,14.6,model era
+2025-01-02,BTE,13.43,model era
+2025-01-02,TBILL,14.57,model era
+2025-01-02,VRN,33.9,model era
+2025-01-03,TBILL,14.52,model era
+2025-01-06,TBILL,14.55,model era
+2025-01-07,TBILL,14.55,model era
+2025-01-08,TBILL,14.05,model era
+2025-01-10,TBILL,14.08,model era
+2025-01-13,TBILL,14.12,model era
+2025-01-14,TBILL,14.09,model era
+2025-01-15,FRHLF,21.35,model era
+2025-01-15,TBILL,14.06,model era
+2025-01-16,CRLFF,28.42,model era
+2025-01-16,TBILL,14.03,model era
+2025-01-16,VET,21.27,model era
+2025-01-17,TBILL,14.04,model era
+2025-01-21,TBILL,14.11,model era
+2025-01-22,TBILL,14.11,model era
+2025-01-23,TBILL,14.11,model era
+2025-01-24,TBILL,14.08,model era
+2025-01-27,TBILL,13.99,model era
+2025-01-28,TBILL,13.96,model era
+2025-01-29,TBILL,13.96,model era
+2025-01-30,TBILL,13.93,model era
+2025-01-31,TBILL,13.97,model era
+2025-02-03,TBILL,14.07,model era
+2025-02-04,TBILL,14.04,model era
+2025-02-05,TBILL,14.04,model era
+2025-02-06,TBILL,14.07,model era
+2025-02-07,TBILL,14.11,model era
+2025-02-10,TBILL,14.11,model era
+2025-02-11,TBILL,14.11,model era
+2025-02-12,TBILL,14.12,model era
+2025-02-13,TBILL,14.09,model era
+2025-02-14,TBILL,14.09,model era
+2025-02-18,FRHLF,21.57,model era
+2025-02-18,TBILL,14.09,model era
+2025-02-19,CRLFF,28.76,model era
+2025-02-19,TBILL,14.1,model era
+2025-02-20,TBILL,14.07,model era
+2025-02-21,TBILL,14.04,model era
+2025-02-24,TBILL,11.71,model era
+2025-02-25,TBILL,11.68,model era
+2025-02-26,TBILL,11.71,model era
+2025-02-27,TBILL,11.74,model era
+2025-02-28,TBILL,11.74,model era
+2025-03-03,TBILL,11.83,model era
+2025-03-04,TBILL,11.8,model era
+2025-03-05,TBILL,11.83,model era
+2025-03-06,TBILL,11.81,model era
+2025-03-07,TBILL,11.81,model era
+2025-03-10,TBILL,11.78,model era
+2025-03-11,BTU,15.0,model era
+2025-03-11,TBILL,11.81,model era
+2025-03-12,TBILL,11.84,model era
+2025-03-13,TBILL,11.82,model era
+2025-03-14,TBILL,11.79,model era
+2025-03-17,CNR,6.0,model era
+2025-03-17,FRHLF,21.41,model era
+2025-03-17,TBILL,11.82,model era
+2025-03-18,CRLFF,28.37,model era
+2025-03-18,TBILL,11.83,model era
+2025-03-19,TBILL,11.81,model era
+2025-03-20,TBILL,11.81,model era
+2025-03-21,TBILL,11.81,model era
+2025-03-24,TBILL,11.81,model era
+2025-03-25,TBILL,11.82,model era
+2025-03-26,TBILL,11.82,model era
+2025-03-27,NEM,25.0,model era
+2025-03-27,TBILL,11.82,model era
+2025-03-28,PXJ,58.91,model era
+2025-03-28,TBILL,11.83,model era
+2025-03-31,DVN,48.0,model era
+2025-03-31,OVV,21.0,model era
+2025-03-31,TBILL,11.81,model era
+2025-04-01,BTE,22.61,model era
+2025-04-01,TBILL,11.83,model era
+2025-04-01,VRN,61.36,model era
+2025-04-02,TBILL,11.84,model era
+2025-04-03,TBILL,11.82,model era
+2025-04-04,TBILL,17.88,model era
+2025-04-07,TBILL,4.57,model era
+2025-04-08,TBILL,2.38,model era
+2025-04-09,TBILL,1.52,model era
+2025-04-10,TBILL,1.52,model era
+2025-04-11,TBILL,13.05,model era
+2025-04-14,TBILL,13.02,model era
+2025-04-15,FRHLF,21.88,model era
+2025-04-15,TBILL,13.03,model era
+2025-04-15,VET,23.73,model era
+2025-04-16,CRLFF,29.43,model era
+2025-04-16,TBILL,13.04,model era
+2025-04-17,TBILL,13.07,model era
+2025-04-21,TBILL,13.08,model era
+2025-04-22,TBILL,13.05,model era
+2025-04-23,TBILL,21.08,model era
+2025-04-24,TBILL,21.03,model era
+2025-04-25,TBILL,21.04,model era
+2025-04-28,TBILL,21.04,model era
+2025-04-29,TBILL,21.0,model era
+2025-04-30,NOG,67.5,model era
+2025-04-30,TBILL,21.0,model era
+2025-05-01,TBILL,21.01,model era
+2025-05-02,TBILL,21.12,model era
+2025-05-05,TBILL,20.24,model era
+2025-05-06,TBILL,20.24,model era
+2025-05-07,TBILL,20.3,model era
+2025-05-08,TBILL,20.3,model era
+2025-05-09,TBILL,20.3,model era
+2025-05-12,TBILL,20.68,model era
+2025-05-13,TBILL,23.9,model era
+2025-05-14,TBILL,23.91,model era
+2025-05-15,TBILL,23.75,model era
+2025-05-16,CRLFF,29.23,model era
+2025-05-16,TBILL,23.7,model era
+2025-05-19,TBILL,23.82,model era
+2025-05-20,TBILL,23.76,model era
+2025-05-21,TBILL,23.66,model era
+2025-05-22,TBILL,13.73,model era
+2025-05-23,TBILL,13.7,model era
+2025-05-27,TBILL,13.67,model era
+2025-05-28,GMBXF,66.83,model era
+2025-05-28,PBR,87.55,model era
+2025-05-28,TBILL,13.68,model era
+2025-05-29,PBR,0.08,model era
+2025-05-29,TBILL,13.74,model era
+2025-05-30,TBILL,13.74,model era
+2025-06-02,BG,70.0,model era
+2025-06-02,TBILL,13.99,model era
+2025-06-02,TGT,67.2,model era
+2025-06-03,TBILL,13.99,model era
+2025-06-04,LTPZ,133.0,model era
+2025-06-04,TBILL,14.02,model era
+2025-06-05,TBILL,14.05,model era
+2025-06-06,TBILL,14.02,model era
+2025-06-09,TBILL,14.05,model era
+2025-06-10,TBILL,14.09,model era
+2025-06-11,TBILL,14.09,model era
+2025-06-12,TBILL,14.12,model era
+2025-06-13,TBILL,12.77,model era
+2025-06-16,TBILL,-0.33,model era
+2025-06-17,CRLFF,30.01,model era
+2025-06-17,TBILL,-0.33,model era
+2025-06-18,TBILL,-0.33,model era
+2025-06-20,TBILL,-0.32,model era
+2025-06-23,TBILL,-0.32,model era
+2025-06-24,TBILL,-0.32,model era
+2025-06-25,TBILL,-0.32,model era
+2025-06-25,XOP,75.24,model era
+2025-06-26,TBILL,-0.31,model era
+2025-06-27,PBR,90.2,model era
+2025-06-27,TBILL,-0.31,model era
+2025-06-30,OVV,21.0,model era
+2025-06-30,PBR,1.15,model era
+2025-06-30,TBILL,-0.29,model era
+2025-07-01,GUSH,102.24,model era
+2025-07-01,SDS,516.51,model era
+2025-07-01,TBILL,-0.29,model era
+2025-07-02,TBILL,-0.15,model era
+2025-07-03,LTPZ,161.0,model era
+2025-07-03,TBILL,-0.15,model era
+2025-07-07,TBILL,8.48,model era
+2025-07-08,TBILL,8.48,model era
+2025-07-09,TBILL,8.48,model era
+2025-07-10,TBILL,8.48,model era
+2025-07-11,TBILL,8.47,model era
+2025-07-14,TBILL,8.49,model era
+2025-07-15,TBILL,8.49,model era
+2025-07-16,CRLFF,29.82,model era
+2025-07-16,TBILL,8.47,model era
+2025-07-17,TBILL,8.48,model era
+2025-07-18,TBILL,8.46,model era
+2025-07-21,TBILL,8.48,model era
+2025-07-22,TBILL,8.48,model era
+2025-07-23,TBILL,8.48,model era
+2025-07-24,TBILL,8.5,model era
+2025-07-25,TBILL,8.51,model era
+2025-07-28,TBILL,8.47,model era
+2025-07-29,TBILL,8.47,model era
+2025-07-30,TBILL,8.49,model era
+2025-07-31,NOG,67.5,model era
+2025-07-31,TBILL,8.49,model era
+2025-08-01,TBILL,8.39,model era
+2025-08-04,TBILL,8.39,model era
+2025-08-05,LTPZ,119.0,model era
+2025-08-05,TBILL,8.37,model era
+2025-08-06,TBILL,8.36,model era
+2025-08-07,TBILL,8.36,model era
+2025-08-08,TBILL,8.36,model era
+2025-08-11,TBILL,8.4,model era
+2025-08-12,TBILL,8.38,model era
+2025-08-13,TBILL,8.31,model era
+2025-08-14,TBILL,8.33,model era
+2025-08-15,TBILL,8.33,model era
+2025-08-18,CRLFF,29.58,model era
+2025-08-18,TBILL,8.39,model era
+2025-08-19,TBILL,8.34,model era
+2025-08-20,TBILL,8.34,model era
+2025-08-21,TBILL,8.38,model era
+2025-08-22,TBILL,8.28,model era
+2025-08-25,TBILL,8.32,model era
+2025-08-26,TBILL,8.3,model era
+2025-08-27,PBR,95.15,model era
+2025-08-27,TBILL,8.27,model era
+2025-08-28,TBILL,8.28,model era
+2025-08-29,TBILL,8.23,model era
+2025-09-02,BG,70.0,model era
+2025-09-02,TBILL,8.17,model era
+2025-09-03,TBILL,8.14,model era
+2025-09-04,LTPZ,168.0,model era
+2025-09-04,TBILL,8.11,model era
+2025-09-05,TBILL,7.96,model era
+2025-09-08,GMBXF,75.22,model era
+2025-09-08,TBILL,8.02,model era
+2025-09-09,TBILL,8.03,model era
+2025-09-10,TBILL,8.02,model era
+2025-09-11,TBILL,8.0,model era
+2025-09-12,TBILL,8.0,model era
+2025-09-15,TBILL,7.96,model era
+2025-09-16,CRLFF,29.46,model era
+2025-09-16,TBILL,7.92,model era
+2025-09-17,TBILL,7.89,model era
+2025-09-18,TBILL,7.91,model era
+2025-09-19,TBILL,7.91,model era
+2025-09-22,TBILL,7.85,model era
+2025-09-23,TBILL,7.85,model era
+2025-09-24,TBILL,7.9,model era
+2025-09-24,XOP,88.14,model era
+2025-09-25,TBILL,7.95,model era
+2025-09-26,TBILL,7.91,model era
+2025-09-29,OVV,21.0,model era
+2025-09-29,PBR,77.12,model era
+2025-09-29,TBILL,7.95,model era
+2025-09-30,GUSH,102.68,model era
+2025-09-30,PBR,32.47,model era
+2025-09-30,TBILL,7.93,model era
+2025-10-01,TBILL,7.93,model era
+2025-10-02,TBILL,7.95,model era
+2025-10-03,LTPZ,98.0,model era
+2025-10-03,TBILL,7.98,model era
+2025-10-06,TBILL,7.97,model era
+2025-10-07,TBILL,7.95,model era
+2025-10-08,TBILL,7.96,model era
+2025-10-09,TBILL,8.0,model era
+2025-10-10,TBILL,7.98,model era
+2025-10-13,TBILL,7.98,model era
+2025-10-14,TBILL,7.98,model era
+2025-10-15,TBILL,8.0,model era
+2025-10-16,CRLFF,29.06,model era
+2025-10-16,TBILL,7.98,model era
+2025-10-17,TBILL,7.95,model era
+2025-10-20,TBILL,7.89,model era
+2025-10-21,TBILL,7.87,model era
+2025-10-22,TBILL,7.87,model era
+2025-10-23,TBILL,7.85,model era
+2025-10-24,TBILL,7.82,model era
+2025-10-27,TBILL,7.74,model era
+2025-10-28,TBILL,7.74,model era
+2025-10-29,TBILL,7.82,model era
+2025-10-30,TBILL,7.8,model era
+2025-10-31,NOG,67.5,model era
+2025-10-31,TBILL,7.74,model era
+2025-11-03,TBILL,7.93,model era
+2025-11-04,TBILL,7.89,model era
+2025-11-05,LTPZ,154.0,model era
+2025-11-05,TBILL,7.9,model era
+2025-11-06,TBILL,7.86,model era
+2025-11-07,TBILL,7.84,model era
+2025-11-10,TBILL,7.9,model era
+2025-11-11,TBILL,7.91,model era
+2025-11-12,TBILL,7.91,model era
+2025-11-13,TBILL,7.93,model era
+2025-11-14,TBILL,7.91,model era
+2025-11-17,TBILL,7.95,model era
+2025-11-18,CRLFF,29.08,model era
+2025-11-18,TBILL,7.89,model era
+2025-11-19,TBILL,7.92,model era
+2025-11-20,TBILL,7.9,model era
+2025-11-21,TBILL,7.82,model era
+2025-11-24,TBILL,7.84,model era
+2025-11-25,TBILL,7.82,model era
+2025-11-26,TBILL,7.86,model era
+2025-11-28,TBILL,7.78,model era
+2025-12-01,BG,70.0,model era
+2025-12-01,PBR,70.52,model era
+2025-12-01,TBILL,7.64,model era
+2025-12-02,TBILL,7.59,model era
+2025-12-03,GMBXF,88.62,model era
+2025-12-03,LTPZ,140.0,model era
+2025-12-03,TBILL,7.49,model era
+2025-12-04,TBILL,7.5,model era
+2025-12-05,TBILL,7.5,model era
+2025-12-08,TBILL,7.54,model era
+2025-12-09,TBILL,7.55,model era
+2025-12-10,CRESY,245.56,model era
+2025-12-10,TBILL,7.47,model era
+2025-12-11,CRESY,4.66,model era
+2025-12-11,IRS,2.55,model era
+2025-12-11,TBILL,7.44,model era
+2025-12-12,TBILL,7.38,model era
+2025-12-15,TBILL,7.42,model era
+2025-12-16,CRLFF,29.6,model era
+2025-12-16,TBILL,7.41,model era
+2025-12-17,TBILL,7.41,model era
+2025-12-18,TBILL,7.37,model era
+2025-12-19,TBILL,7.37,model era
+2025-12-22,TBILL,7.41,model era
+2025-12-23,TBILL,7.44,model era
+2025-12-24,TBILL,7.52,model era
+2025-12-24,XOP,91.04,model era
+2025-12-26,TBILL,7.43,model era
+2025-12-29,TBILL,7.51,model era
+2025-12-30,PBR,47.18,model era
+2025-12-30,TBILL,7.45,model era
+2025-12-31,GUSH,78.25,model era
+2025-12-31,OVV,21.0,model era
+2025-12-31,PBR,28.95,model era
+2025-12-31,TBILL,7.5,model era
+2026-01-02,TBILL,7.48,model era
+2026-01-05,LTPZ,140.0,model era
+2026-01-05,TBILL,7.46,model era
+2026-01-06,TBILL,7.46,model era
+2026-01-07,TBILL,7.44,model era
+2026-01-08,TBILL,7.44,model era
+2026-01-09,TBILL,7.44,model era
+2026-01-12,TBILL,7.55,model era
+2026-01-13,TBILL,7.55,model era
+2026-01-14,TBILL,7.55,model era
+2026-01-15,CRESY,-0.17,model era
+2026-01-15,TBILL,7.57,model era
+2026-01-16,CRLFF,29.39,model era
+2026-01-16,TBILL,7.55,model era
+2026-01-20,CRESY,-0.41,model era
+2026-01-20,TBILL,7.62,model era
+2026-01-21,TBILL,7.62,model era
+2026-01-22,TBILL,7.64,model era
+2026-01-23,TBILL,7.62,model era
+2026-01-26,TBILL,7.56,model era
+2026-01-27,TBILL,7.56,model era
+2026-01-28,TBILL,7.59,model era
+2026-01-29,TBILL,7.57,model era
+2026-01-30,NOG,67.5,model era
+2026-01-30,TBILL,7.57,model era
+2026-02-02,TBILL,7.62,model era
+2026-02-03,TBILL,7.62,model era
+2026-02-04,TBILL,7.62,model era
+2026-02-05,TBILL,7.58,model era
+2026-02-06,TBILL,7.6,model era
+2026-02-09,TBILL,7.62,model era
+2026-02-10,TBILL,7.63,model era
+2026-02-11,TBILL,7.65,model era
+2026-02-12,TBILL,7.65,model era
+2026-02-13,TBILL,7.61,model era
+2026-02-17,TBILL,7.63,model era
+2026-02-18,CRLFF,29.94,model era
+2026-02-18,TBILL,7.65,model era
+2026-02-19,TBILL,7.64,model era
+2026-02-20,TBILL,7.64,model era
+2026-02-23,TBILL,7.64,model era
+2026-02-24,TBILL,7.64,model era
+2026-02-25,TBILL,7.64,model era
+2026-02-26,TBILL,7.62,model era
+2026-02-27,PBR,106.23,model era
+2026-02-27,TBILL,11.45,model era
+2026-03-02,TBILL,9.1,model era
+2026-03-03,BG,70.0,model era
+2026-03-03,TBILL,5.05,model era
+2026-03-04,TBILL,5.07,model era
+2026-03-05,TBILL,3.77,model era
+2026-03-06,TBILL,3.76,model era
+2026-03-09,TBILL,11.8,model era
+2026-03-10,TBILL,9.38,model era
+2026-03-11,TBILL,5.94,model era
+2026-03-12,TBILL,5.96,model era
+2026-03-13,TBILL,5.96,model era
+2026-03-16,TBILL,13.66,model era
+2026-03-17,CRLFF,29.7,model era
+2026-03-17,TBILL,13.66,model era
+2026-03-18,TBILL,11.58,model era
+2026-03-19,TBILL,9.7,model era
+2026-03-20,TBILL,2.25,model era
+2026-03-23,TBILL,3.54,model era
+2026-03-24,TBILL,2.1,model era
+2026-03-25,TBILL,2.1,model era
+2026-03-26,TBILL,2.1,model era
+2026-03-27,PBR,74.94,model era
+2026-03-27,TBILL,2.1,model era
+2026-03-30,PBR,42.61,model era
+2026-03-30,TBILL,16.07,model era
+2026-03-31,SDS,332.18,model era
+2026-03-31,SKF,52.77,model era
+2026-03-31,TBILL,16.04,model era
+2026-04-01,TBILL,13.86,model era
+2026-04-02,TBILL,7.81,model era
+2026-04-06,TBILL,7.85,model era
+2026-04-07,TBILL,7.83,model era
+2026-04-08,TBILL,7.79,model era
+2026-04-09,TBILL,-0.41,model era
+2026-04-10,TBILL,-5.97,model era
+2026-04-13,TBILL,-5.99,model era
+2026-04-14,TBILL,-5.06,model era
+2026-04-15,TBILL,-0.65,model era
+2026-04-16,TBILL,5.23,model era
+2026-04-17,TBILL,5.23,model era
+2026-04-20,TBILL,4.46,model era
+2026-04-21,TBILL,4.44,model era
+2026-04-22,TBILL,4.44,model era
+2026-04-23,TBILL,4.44,model era
+2026-04-24,TBILL,4.44,model era
+2026-04-27,TBILL,6.26,model era
+2026-04-28,TBILL,6.26,model era
+2026-04-29,TBILL,6.26,model era
+2026-04-30,NOG,99.0,model era
+2026-04-30,TBILL,5.79,model era
+2026-05-01,TBILL,4.61,model era
+2026-05-04,TBILL,4.64,model era
+2026-05-05,TBILL,4.63,model era
+2026-05-06,TBILL,8.83,model era
+2026-05-07,TBILL,8.83,model era
+2026-05-08,TBILL,6.96,model era
+2026-05-11,TBILL,6.98,model era
+2026-05-12,TBILL,6.98,model era
+2026-05-13,TBILL,6.96,model era
+2026-05-14,TBILL,7.55,model era
+2026-05-15,TBILL,7.55,model era
+2026-05-18,TBILL,7.53,model era
+2026-05-19,TBILL,7.51,model era
+2026-05-20,TBILL,7.47,model era
+2026-05-21,TBILL,7.54,model era
+2026-05-22,AKRVF,124.01,model era
+2026-05-22,TBILL,7.54,model era
+2026-05-26,TBILL,7.56,model era
+2026-05-27,EQNR,86.25,model era
+2026-05-27,TBILL,9.0,model era
+2026-05-28,PBR,68.25,model era
+2026-05-28,TBILL,8.28,model era
+2026-05-29,PBF,33.0,model era
+2026-05-29,PBR,3.89,model era
+2026-05-29,TBILL,8.21,model era
+2026-06-01,TBILL,9.81,model era
+2026-06-02,GMBXF,68.65,model era
+2026-06-02,TBILL,9.78,model era
+2026-06-02,YPF,-6.0,model era
+2026-06-03,TBILL,9.82,model era
+2026-06-04,TBILL,9.82,model era
+2026-06-05,TBILL,9.82,model era
+2026-06-08,TBILL,9.88,model era
+2026-06-09,TBILL,9.85,model era
+2026-06-10,TBILL,9.85,model era
+2026-06-11,TBILL,9.83,model era
+2026-06-12,TBILL,9.83,model era
+2026-06-15,TBILL,9.86,model era
+2026-06-16,TBILL,9.86,model era
+2026-06-17,TBILL,9.96,model era
+2026-06-18,TBILL,11.03,model era
+2026-06-22,TBILL,11.09,model era
+2026-06-23,TBILL,11.09,model era
+2026-06-24,TBILL,11.09,model era
+2026-06-25,TBILL,11.07,model era
+2026-06-26,TBILL,11.04,model era
+2026-06-29,PBR,71.44,model era
+2026-06-29,TBILL,11.16,model era
+2026-06-29,VARRY,89.76,model era
+2026-06-30,TBILL,11.18,model era
+2026-07-01,TBILL,11.13,model era
+2026-07-02,TBILL,11.04,model era
+2026-07-06,TBILL,11.19,model era
+2026-07-07,TBILL,11.16,model era
+2026-07-08,TBILL,14.19,model era
+2026-07-09,TBILL,14.05,model era
+2026-07-10,TBILL,14.12,model era
+2026-07-13,TBILL,14.27,model era
+2026-07-14,TBILL,14.09,model era
+2026-07-15,REPYY,98.5,model era
+2026-07-15,TBILL,14.06,model era
+2026-07-16,TBILL,14.11,model era
+2026-07-17,TBILL,14.15,model era
+2026-07-20,TBILL,14.19,model era
+2026-07-21,TBILL,14.23,model era
+2026-07-22,TBILL,14.3,model era
+2026-07-23,TBILL,14.53,model era
+2026-07-24,TBILL,14.57,model era
+2026-07-27,TBILL,14.57,model era
+2026-07-28,TBILL,14.35,model era
+2026-07-29,AKRVF,125.34,model era
+2026-07-29,TBILL,14.09,model era
+2026-07-30,TBILL,14.08,model era
+2026-07-31,TBILL,14.12,model era
+2026-08-03,TBILL,14.41,model era
+2026-08-04,TBILL,14.34,model era
+2026-08-05,TBILL,14.35,model era
+2026-08-06,TBILL,14.38,model era
+2026-08-07,TBILL,14.28,model era
+2026-08-10,TBILL,14.35,model era
+2026-08-11,TBILL,10.51,model era
+2026-08-12,TBILL,10.46,model era
+2026-08-13,TBILL,10.46,model era
