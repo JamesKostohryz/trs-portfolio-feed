@@ -536,3 +536,4 @@ date,ticker,name,action,quantity,price,fees,cash_flow,shares_delta,era
 2026-08-10,XOP,SPDR S&P Oil & Gas E&P ETF,Buy,100,176.0850,0.00,-17608.50,100,model era
 2026-08-10,XOP,SPDR S&P Oil & Gas E&P ETF,Buy,40,175.7050,-0.00,-7028.20,40,model era
 2026-08-17,BAK,Braskem S.A.,Sell,1500,2.0350,0.00,3052.50,-1500,model era
+2026-08-21,REPYY,Repsol S.A.,Buy,100,32.7250,0.00,-3272.50,100,model era

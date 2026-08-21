@@ -1,15 +1,15 @@
 ticker,name,shares,avg_cost_fifo,cost_basis_fifo,last_price,market_value,weight,unrealized_pnl,return_pct,sector,region,theme,price_asof
-BNO,US Brent Oil Fund,1200,47.0273,56432.75,53.4900,64188.00,0.243322,7755.25,0.137425,Commodity/Energy,US,Crude Oil (beta),2026-08-20
-XOP,SPDR S&P Oil & Gas E&P ETF,140,175.9764,24636.70,187.4500,26243.00,0.099481,1606.30,0.065199,Energy,US,Oil & Gas Producers,2026-08-20
+BNO,US Brent Oil Fund,1200,47.0273,56432.75,53.4900,64188.00,0.243323,7755.25,0.137425,Commodity/Energy,US,Crude Oil (beta),2026-08-20
+XOP,SPDR S&P Oil & Gas E&P ETF,140,175.9764,24636.70,187.4500,26243.00,0.099482,1606.30,0.065199,Energy,US,Oil & Gas Producers,2026-08-20
 PBR,Petrobras,700,12.7868,8950.76,19.0100,13307.00,0.050444,4356.24,0.486689,Energy,International,Oil & Gas Producers,2026-08-20
-VIXY,ProShares VIX S-T,700,28.0600,19642.00,18.4400,12908.00,0.048931,-6734.00,-0.342837,Volatility,US,Volatility Hedge,2026-08-20
+VIXY,ProShares VIX S-T,700,28.0600,19642.00,18.4400,12908.00,0.048932,-6734.00,-0.342837,Volatility,US,Volatility Hedge,2026-08-20
 PBF,PBF Energy,170,50.3374,8557.35,69.5600,11825.20,0.044827,3267.85,0.381876,Energy,US,Refining,2026-08-20
 YPF,YPF S.A.,200,37.6450,7529.00,50.9200,10184.00,0.038605,2655.00,0.352636,Energy,International,Oil & Gas Producers,2026-08-20
-AKRVF,Aker BP ASA,250,31.6660,7916.50,38.3600,9590.00,0.036353,1673.50,0.211394,Energy,International,Oil & Gas Producers,2026-08-20
+REPYY,Repsol S.A.,300,28.0870,8426.10,32.7100,9813.00,0.037199,1386.90,0.164596,Energy,International,Oil & Gas Producers,2026-08-20
+AKRVF,Aker BP ASA,250,31.6660,7916.50,38.3600,9590.00,0.036354,1673.50,0.211394,Energy,International,Oil & Gas Producers,2026-08-20
 EQNR,Equinor ASA,220,38.0595,8373.08,42.8600,9429.20,0.035744,1056.12,0.126133,Energy,International,Oil & Gas Producers,2026-08-20
 VIST,Vista Energy,120,72.3933,8687.20,70.5000,8460.00,0.032070,-227.20,-0.026153,Energy,International,Oil & Gas Producers,2026-08-20
 VARRY,Var Energi ASA,625,7.8400,4900.00,11.0000,6875.00,0.026062,1975.00,0.403061,Energy,International,Oil & Gas Producers,2026-08-20
 UCO,ProShares Ultra Bloomberg Crude Oil,150,40.9450,6141.75,45.2900,6793.50,0.025753,651.75,0.106118,Commodity/Energy,US,Crude Oil (2x leveraged),2026-08-20
-REPYY,Repsol S.A.,200,25.7680,5153.60,32.7100,6542.00,0.024799,1388.40,0.269404,Energy,International,Oil & Gas Producers,2026-08-20
 VLERF,Valeura Energy,400,9.0300,3612.00,9.5000,3800.00,0.014405,188.00,0.052049,Energy,International,Oil & Gas Producers,2026-08-20
 WDS,Woodside Energy,100,23.9100,2391.00,24.1200,2412.00,0.009143,21.00,0.008783,Energy,International,Oil & Gas Producers,2026-08-20
