@@ -40,7 +40,7 @@ date,ticker,name,action,quantity,price,fees,cash_flow,shares_delta,era
 2021-04-01,ACAZF,ACAZF,Buy,100,15.3457,4.95,-1539.52,100,pre-inception
 2021-07-19,SBSW,SBSW,Buy,100,15.2500,0.00,-1525.00,100,pre-inception
 2021-07-19,SLB,SLB,Buy,150,26.0300,0.00,-3904.50,150,pre-inception
-2021-07-20,GGAL,GGAL,Buy,400,7.7500,0.00,-3100.00,400,pre-inception
+2021-07-20,GGAL,Grupo Financiero Galicia S.A.,Buy,400,7.7500,0.00,-3100.00,400,pre-inception
 2021-08-13,HES,HES,Buy,50,70.8500,0.00,-3542.50,50,pre-inception
 2021-08-18,PXJ,Invesco Oil & Gas Services ETF,Buy,87,3.0500,0.00,-265.35,87,pre-inception
 2021-08-19,PXJ,Invesco Oil & Gas Services ETF,Buy,913,3.0100,0.00,-2748.13,913,pre-inception
@@ -112,7 +112,7 @@ date,ticker,name,action,quantity,price,fees,cash_flow,shares_delta,era
 2022-04-11,XOP,SPDR S&P Oil & Gas E&P ETF,Sell,60,137.6500,0.06,8258.94,-60,pre-inception
 2022-04-13,BBAR,BBAR,Sell,1000,3.1900,0.15,3189.85,-1000,pre-inception
 2022-04-13,BBD,BBD,Sell,1100,4.5401,0.17,4993.94,-1100,pre-inception
-2022-04-13,GGAL,GGAL,Sell,400,10.0500,0.08,4019.92,-400,pre-inception
+2022-04-13,GGAL,Grupo Financiero Galicia S.A.,Sell,400,10.0500,0.08,4019.92,-400,pre-inception
 2022-04-29,BTU,Peabody Energy,Buy,80,23.6319,0.00,-1890.55,80,pre-inception
 2022-05-02,SDS,ProShares UltraShort S&P 500,Sell,500,44.4400,0.19,22219.81,-500,pre-inception
 2022-05-09,AEM,AEM,Sell,43,56.3000,0.03,2420.87,-43,pre-inception
@@ -537,3 +537,13 @@ date,ticker,name,action,quantity,price,fees,cash_flow,shares_delta,era
 2026-08-10,XOP,SPDR S&P Oil & Gas E&P ETF,Buy,40,175.7050,-0.00,-7028.20,40,model era
 2026-08-17,BAK,Braskem S.A.,Sell,1500,2.0350,0.00,3052.50,-1500,model era
 2026-08-21,REPYY,Repsol S.A.,Buy,100,32.7250,0.00,-3272.50,100,model era
+2026-08-26,BNO,US Brent Oil Fund,Sell,400,51.0083,0.51,20402.81,-400,model era
+2026-08-26,CIG,Companhia Energetica de Minas Gerais (CEMIG),Buy,2500,1.9950,0.00,-4987.50,2500,model era
+2026-08-26,ENLAY,Enel S.p.A. (ADR),Buy,500,11.0690,27.09,-5561.59,500,model era
+2026-08-26,FIS,Fidelity National Information Services,Buy,140,40.6250,0.00,-5687.50,140,model era
+2026-08-26,GGAL,Grupo Financiero Galicia S.A.,Buy,100,43.9800,0.00,-4398.00,100,model era
+2026-08-26,ITUB,Itau Unibanco Holding S.A.,Buy,700,7.6691,0.00,-5368.37,700,model era
+2026-08-26,KWEB,KraneShares CSI China Internet ETF,Buy,200,26.3133,-0.00,-5262.66,200,model era
+2026-08-26,TCHI,iShares MSCI China Multisector Tech ETF,Buy,220,23.2950,-0.00,-5124.90,220,model era
+2026-08-26,UCO,ProShares Ultra Bloomberg Crude Oil,Sell,150,42.3800,0.17,6356.83,-150,model era
+2026-08-26,VARRY,Var Energi ASA,Sell,625,10.2500,5.21,6401.04,-625,model era
