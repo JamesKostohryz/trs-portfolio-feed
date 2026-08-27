@@ -1,20 +1,20 @@
 ticker,name,shares,avg_cost_fifo,cost_basis_fifo,last_price,market_value,weight,unrealized_pnl,return_pct,sector,region,theme,price_asof
-BNO,US Brent Oil Fund,800,46.4244,37139.50,50.2600,40208.00,0.157566,3068.50,0.082621,Commodity/Energy,US,Crude Oil (beta),2026-08-25
-XOP,SPDR S&P Oil & Gas E&P ETF,140,175.9764,24636.70,182.7300,25582.20,0.100251,945.50,0.038378,Energy,US,Oil & Gas Producers,2026-08-25
-VIXY,ProShares VIX S-T,700,28.0600,19642.00,18.0100,12607.00,0.049404,-7035.00,-0.358161,Volatility,US,Volatility Hedge,2026-08-25
-PBR,Petrobras,700,12.7868,8950.76,17.8500,12495.00,0.048965,3544.24,0.395971,Energy,International,Oil & Gas Producers,2026-08-25
-PBF,PBF Energy,170,50.3374,8557.35,66.5100,11306.70,0.044308,2749.35,0.321285,Energy,US,Refining,2026-08-25
-YPF,YPF S.A.,200,37.6450,7529.00,50.0100,10002.00,0.039196,2473.00,0.328463,Energy,International,Oil & Gas Producers,2026-08-25
-REPYY,Repsol S.A.,300,28.0870,8426.10,31.3000,9390.00,0.036797,963.90,0.114395,Energy,International,Oil & Gas Producers,2026-08-25
-AKRVF,Aker BP ASA,250,31.6660,7916.50,37.0600,9265.00,0.036307,1348.50,0.170340,Energy,International,Oil & Gas Producers,2026-08-25
-EQNR,Equinor ASA,220,38.0595,8373.08,41.2100,9066.20,0.035528,693.12,0.082780,Energy,International,Oil & Gas Producers,2026-08-25
-VIST,Vista Energy,120,72.3933,8687.20,68.3900,8206.80,0.032161,-480.40,-0.055300,Energy,International,Oil & Gas Producers,2026-08-25
-FIS,Fidelity National Information Services,140,40.6250,5687.50,40.6250,5687.50,0.022288,0.00,0.000000,Financials,US,Payments/Fintech,2026-08-26
-ENLAY,Enel S.p.A. (ADR),500,11.0690,5534.50,11.0690,5534.50,0.021688,0.00,0.000000,Energy,International,Diversified Utility,2026-08-26
-ITUB,Itau Unibanco Holding S.A.,700,7.6691,5368.37,7.6691,5368.37,0.021037,0.00,0.000000,Financials,International,Brazil Financials,2026-08-26
-KWEB,KraneShares CSI China Internet ETF,200,26.3133,5262.66,26.3133,5262.66,0.020623,0.00,0.000000,Country Equity,International,China Internet,2026-08-26
-TCHI,iShares MSCI China Multisector Tech ETF,220,23.2950,5124.90,23.2950,5124.90,0.020083,0.00,0.000000,Technology,International,China Tech,2026-08-26
-CIG,Companhia Energetica de Minas Gerais (CEMIG),2500,1.9950,4987.50,1.9950,4987.50,0.019545,0.00,0.000000,Energy,International,Brazil Utility,2026-08-26
-GGAL,Grupo Financiero Galicia S.A.,100,43.9800,4398.00,43.9800,4398.00,0.017235,0.00,0.000000,Financials,International,Argentina Financials,2026-08-26
-VLERF,Valeura Energy,400,9.0300,3612.00,9.0800,3632.00,0.014233,20.00,0.005537,Energy,International,Oil & Gas Producers,2026-08-25
-WDS,Woodside Energy,100,23.9100,2391.00,22.8600,2286.00,0.008958,-105.00,-0.043915,Energy,International,Oil & Gas Producers,2026-08-25
+BNO,US Brent Oil Fund,800,46.4244,37139.50,50.5400,40432.00,0.157896,3292.50,0.088652,Commodity/Energy,US,Crude Oil (beta),2026-08-26
+XOP,SPDR S&P Oil & Gas E&P ETF,140,175.9764,24636.70,184.4600,25824.40,0.100850,1187.70,0.048209,Energy,US,Oil & Gas Producers,2026-08-26
+VIXY,ProShares VIX S-T,700,28.0600,19642.00,17.8300,12481.00,0.048741,-7161.00,-0.364576,Volatility,US,Volatility Hedge,2026-08-26
+PBR,Petrobras,700,12.7868,8950.76,17.7600,12432.00,0.048550,3481.24,0.388932,Energy,International,Oil & Gas Producers,2026-08-26
+PBF,PBF Energy,170,50.3374,8557.35,69.7300,11854.10,0.046293,3296.75,0.385254,Energy,US,Refining,2026-08-26
+YPF,YPF S.A.,200,37.6450,7529.00,50.2700,10054.00,0.039263,2525.00,0.335370,Energy,International,Oil & Gas Producers,2026-08-26
+REPYY,Repsol S.A.,300,28.0870,8426.10,31.2000,9360.00,0.036553,933.90,0.110834,Energy,International,Oil & Gas Producers,2026-08-26
+AKRVF,Aker BP ASA,250,31.6660,7916.50,37.1000,9275.00,0.036221,1358.50,0.171604,Energy,International,Oil & Gas Producers,2026-08-26
+EQNR,Equinor ASA,220,38.0595,8373.08,41.3100,9088.20,0.035491,715.12,0.085407,Energy,International,Oil & Gas Producers,2026-08-26
+VIST,Vista Energy,120,72.3933,8687.20,68.6600,8239.20,0.032176,-448.00,-0.051570,Energy,International,Oil & Gas Producers,2026-08-26
+FIS,Fidelity National Information Services,140,40.6250,5687.50,40.6400,5689.60,0.022219,2.10,0.000369,Financials,US,Payments/Fintech,2026-08-26
+ENLAY,Enel S.p.A. (ADR),500,11.0690,5534.50,11.0700,5535.00,0.021615,0.50,0.000090,Energy,International,Diversified Utility,2026-08-26
+ITUB,Itau Unibanco Holding S.A.,700,7.6691,5368.37,7.6100,5327.00,0.020803,-41.37,-0.007706,Financials,International,Brazil Financials,2026-08-26
+KWEB,KraneShares CSI China Internet ETF,200,26.3133,5262.66,26.2800,5256.00,0.020526,-6.66,-0.001266,Country Equity,International,China Internet,2026-08-26
+TCHI,iShares MSCI China Multisector Tech ETF,220,23.2950,5124.90,23.2887,5123.51,0.020008,-1.39,-0.000270,Technology,International,China Tech,2026-08-26
+CIG,Companhia Energetica de Minas Gerais (CEMIG),2500,1.9950,4987.50,1.9800,4950.00,0.019331,-37.50,-0.007519,Energy,International,Brazil Utility,2026-08-26
+GGAL,Grupo Financiero Galicia S.A.,100,43.9800,4398.00,43.9100,4391.00,0.017148,-7.00,-0.001592,Financials,International,Argentina Financials,2026-08-26
+VLERF,Valeura Energy,400,9.0300,3612.00,9.2100,3684.00,0.014387,72.00,0.019934,Energy,International,Oil & Gas Producers,2026-08-26
+WDS,Woodside Energy,100,23.9100,2391.00,22.9000,2290.00,0.008943,-101.00,-0.042242,Energy,International,Oil & Gas Producers,2026-08-26
