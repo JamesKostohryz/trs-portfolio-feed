@@ -547,6 +547,10 @@ date,ticker,name,action,quantity,price,fees,cash_flow,shares_delta,era
 2026-08-26,TCHI,iShares MSCI China Multisector Tech ETF,Buy,220,23.2950,-0.00,-5124.90,220,model era
 2026-08-26,UCO,ProShares Ultra Bloomberg Crude Oil,Sell,150,42.3800,0.17,6356.83,-150,model era
 2026-08-26,VARRY,Var Energi ASA,Sell,625,10.2500,5.21,6401.04,-625,model era
+2026-09-02,ASC,Ardmore Shipping Corporation,Buy,170,17.9700,0.00,-3054.90,170,model era
 2026-09-02,BG,Bunge Global,Buy,60,122.9350,0.00,-7376.10,60,model era
+2026-09-02,HAFN,Hafnia Limited,Buy,370,8.8275,0.00,-3266.18,370,model era
 2026-09-02,REPYY,Repsol S.A.,Sell,200,32.5300,5.13,6500.87,-200,model era
 2026-09-02,REPYY,Repsol S.A.,Sell,100,32.5800,5.04,3252.96,-100,model era
+2026-09-02,STNG,Scorpio Tankers Inc.,Buy,40,80.1100,0.00,-3204.40,40,model era
+2026-09-02,TRMD,TORM plc,Buy,100,33.7300,0.00,-3373.00,100,model era
