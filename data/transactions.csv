@@ -554,3 +554,4 @@ date,ticker,name,action,quantity,price,fees,cash_flow,shares_delta,era
 2026-09-02,REPYY,Repsol S.A.,Sell,100,32.5800,5.04,3252.96,-100,model era
 2026-09-02,STNG,Scorpio Tankers Inc.,Buy,40,80.1100,0.00,-3204.40,40,model era
 2026-09-02,TRMD,TORM plc,Buy,100,33.7300,0.00,-3373.00,100,model era
+2026-09-08,UCO,ProShares Ultra Bloomberg Crude Oil,Buy,200,49.5000,0.00,-9900.00,200,model era
