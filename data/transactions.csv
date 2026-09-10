@@ -555,3 +555,9 @@ date,ticker,name,action,quantity,price,fees,cash_flow,shares_delta,era
 2026-09-02,STNG,Scorpio Tankers Inc.,Buy,40,80.1100,0.00,-3204.40,40,model era
 2026-09-02,TRMD,TORM plc,Buy,100,33.7300,0.00,-3373.00,100,model era
 2026-09-08,UCO,ProShares Ultra Bloomberg Crude Oil,Buy,200,49.5000,0.00,-9900.00,200,model era
+2026-09-10,BNO,US Brent Oil Fund,Sell,200,62.4600,0.30,12491.70,-200,model era
+2026-09-10,PBF,PBF Energy,Sell,70,77.3600,0.13,5415.07,-70,model era
+2026-09-10,PBR,Petrobras,Sell,200,21.3450,0.13,4268.87,-200,model era
+2026-09-10,UCO,ProShares Ultra Bloomberg Crude Oil,Sell,200,51.9500,0.26,10389.74,-200,model era
+2026-09-10,WDS,Woodside Energy,Sell,100,23.8420,0.04,2384.16,-100,model era
+2026-09-10,XOP,SPDR S&P Oil & Gas E&P ETF,Sell,70,196.2800,0.30,13739.30,-70,model era
