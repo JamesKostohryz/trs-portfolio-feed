@@ -559,5 +559,6 @@ date,ticker,name,action,quantity,price,fees,cash_flow,shares_delta,era
 2026-09-10,PBF,PBF Energy,Sell,70,77.3600,0.13,5415.07,-70,model era
 2026-09-10,PBR,Petrobras,Sell,200,21.3450,0.13,4268.87,-200,model era
 2026-09-10,UCO,ProShares Ultra Bloomberg Crude Oil,Sell,200,51.9500,0.26,10389.74,-200,model era
+2026-09-10,UCO,ProShares Ultra Bloomberg Crude Oil,Buy,300,52.7299,0.00,-15818.97,300,model era
 2026-09-10,WDS,Woodside Energy,Sell,100,23.8420,0.04,2384.16,-100,model era
 2026-09-10,XOP,SPDR S&P Oil & Gas E&P ETF,Sell,70,196.2800,0.30,13739.30,-70,model era
