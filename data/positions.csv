@@ -1,24 +1,24 @@
 ticker,name,shares,avg_cost_fifo,cost_basis_fifo,last_price,market_value,weight,unrealized_pnl,return_pct,sector,region,theme,price_asof
-BNO,US Brent Oil Fund,600,44.8192,26891.50,61.3700,36822.00,0.133853,9930.50,0.369280,Commodity/Energy,US,Crude Oil (beta),2026-09-11
-UCO,ProShares Ultra Bloomberg Crude Oil,300,52.7299,15818.97,51.5600,15468.00,0.056228,-350.97,-0.022187,Commodity/Energy,US,Crude Oil (2x leveraged),2026-09-11
-XOP,SPDR S&P Oil & Gas E&P ETF,70,175.8679,12310.75,195.7200,13700.40,0.049803,1389.65,0.112881,Energy,US,Oil & Gas Producers,2026-09-11
-VIXY,ProShares VIX S-T,700,28.0600,19642.00,17.3000,12110.00,0.044021,-7532.00,-0.383464,Volatility,US,Volatility Hedge,2026-09-11
-YPF,YPF S.A.,200,37.6450,7529.00,55.5500,11110.00,0.040386,3581.00,0.475628,Energy,International,Oil & Gas Producers,2026-09-11
-PBR,Petrobras,500,12.7868,6393.40,21.2000,10600.00,0.038532,4206.60,0.657960,Energy,International,Oil & Gas Producers,2026-09-11
-AKRVF,Aker BP ASA,250,31.6660,7916.50,39.6600,9915.00,0.036042,1998.50,0.252447,Energy,International,Oil & Gas Producers,2026-09-10
-EQNR,Equinor ASA,220,38.0595,8373.08,44.8000,9856.00,0.035828,1482.92,0.177106,Energy,International,Oil & Gas Producers,2026-09-11
-VIST,Vista Energy,120,72.3933,8687.20,76.2700,9152.40,0.033270,465.20,0.053550,Energy,International,Oil & Gas Producers,2026-09-11
-PBF,PBF Energy,100,54.9625,5496.25,78.3000,7830.00,0.028463,2333.75,0.424608,Energy,US,Refining,2026-09-11
-BG,Bunge Global,60,122.9350,7376.10,122.4100,7344.60,0.026699,-31.50,-0.004271,Agriculture,US,Agribusiness,2026-09-11
-ITUB,Itau Unibanco Holding S.A.,700,7.6691,5368.37,8.3300,5831.00,0.021196,462.63,0.086177,Financials,International,Brazil Financials,2026-09-11
-CIG,Companhia Energetica de Minas Gerais (CEMIG),2500,1.9950,4987.50,2.2000,5500.00,0.019993,512.50,0.102757,Energy,International,Brazil Utility,2026-09-11
-FIS,Fidelity National Information Services,140,40.6250,5687.50,38.1400,5339.60,0.019410,-347.90,-0.061169,Financials,US,Payments/Fintech,2026-09-11
-ENLAY,Enel S.p.A. (ADR),500,11.0690,5534.50,10.3200,5160.00,0.018757,-374.50,-0.067666,Energy,International,Diversified Utility,2026-09-11
-TCHI,iShares MSCI China Multisector Tech ETF,220,23.2950,5124.90,22.4675,4942.85,0.017968,-182.05,-0.035523,Technology,International,China Tech,2026-09-11
-KWEB,KraneShares CSI China Internet ETF,200,26.3133,5262.66,24.6000,4920.00,0.017885,-342.66,-0.065112,Country Equity,International,China Internet,2026-09-11
-GGAL,Grupo Financiero Galicia S.A.,100,43.9800,4398.00,43.8600,4386.00,0.015944,-12.00,-0.002729,Financials,International,Argentina Financials,2026-09-11
-VLERF,Valeura Energy,400,9.0300,3612.00,10.6000,4240.00,0.015413,628.00,0.173865,Energy,International,Oil & Gas Producers,2026-09-11
-TRMD,TORM plc,100,33.7300,3373.00,35.0800,3508.00,0.012752,135.00,0.040024,Shipping,International,Product Tanker Shipping,2026-09-11
-HAFN,Hafnia Limited,370,8.8275,3266.18,9.3800,3470.60,0.012616,204.43,0.062589,Shipping,International,Product Tanker Shipping,2026-09-11
-STNG,Scorpio Tankers Inc.,40,80.1100,3204.40,84.5200,3380.80,0.012290,176.40,0.055049,Shipping,International,Product Tanker Shipping,2026-09-11
-ASC,Ardmore Shipping Corporation,170,17.9700,3054.90,18.6700,3173.90,0.011538,119.00,0.038954,Shipping,International,Product Tanker Shipping,2026-09-11
+BNO,US Brent Oil Fund,600,44.8192,26891.50,62.1600,37296.00,0.135816,10404.50,0.386907,Commodity/Energy,US,Crude Oil (beta),2026-09-14
+UCO,ProShares Ultra Bloomberg Crude Oil,300,52.7299,15818.97,52.0800,15624.00,0.056896,-194.97,-0.012325,Commodity/Energy,US,Crude Oil (2x leveraged),2026-09-14
+XOP,SPDR S&P Oil & Gas E&P ETF,70,175.8679,12310.75,193.4700,13542.90,0.049318,1232.15,0.100087,Energy,US,Oil & Gas Producers,2026-09-14
+VIXY,ProShares VIX S-T,700,28.0600,19642.00,17.4900,12243.00,0.044584,-7399.00,-0.376693,Volatility,US,Volatility Hedge,2026-09-14
+YPF,YPF S.A.,200,37.6450,7529.00,56.3300,11266.00,0.041026,3737.00,0.496347,Energy,International,Oil & Gas Producers,2026-09-14
+PBR,Petrobras,500,12.7868,6393.40,21.1500,10575.00,0.038510,4181.60,0.654049,Energy,International,Oil & Gas Producers,2026-09-14
+AKRVF,Aker BP ASA,250,31.6660,7916.50,39.6600,9915.00,0.036106,1998.50,0.252447,Energy,International,Oil & Gas Producers,2026-09-11
+EQNR,Equinor ASA,220,38.0595,8373.08,44.5400,9798.80,0.035683,1425.72,0.170274,Energy,International,Oil & Gas Producers,2026-09-14
+VIST,Vista Energy,120,72.3933,8687.20,76.4100,9169.20,0.033390,482.00,0.055484,Energy,International,Oil & Gas Producers,2026-09-14
+BG,Bunge Global,60,122.9350,7376.10,121.2300,7273.80,0.026488,-102.30,-0.013869,Agriculture,US,Agribusiness,2026-09-14
+PBF,PBF Energy,100,54.9625,5496.25,70.4000,7040.00,0.025637,1543.75,0.280873,Energy,US,Refining,2026-09-14
+ITUB,Itau Unibanco Holding S.A.,700,7.6691,5368.37,8.2300,5761.00,0.020979,392.63,0.073138,Financials,International,Brazil Financials,2026-09-14
+CIG,Companhia Energetica de Minas Gerais (CEMIG),2500,1.9950,4987.50,2.1500,5375.00,0.019574,387.50,0.077694,Energy,International,Brazil Utility,2026-09-14
+FIS,Fidelity National Information Services,140,40.6250,5687.50,38.1800,5345.20,0.019465,-342.30,-0.060185,Financials,US,Payments/Fintech,2026-09-14
+ENLAY,Enel S.p.A. (ADR),500,11.0690,5534.50,10.0900,5045.00,0.018372,-489.50,-0.088445,Energy,International,Diversified Utility,2026-09-14
+KWEB,KraneShares CSI China Internet ETF,200,26.3133,5262.66,24.7300,4946.00,0.018011,-316.66,-0.060171,Country Equity,International,China Internet,2026-09-14
+TCHI,iShares MSCI China Multisector Tech ETF,220,23.2950,5124.90,22.3847,4924.63,0.017933,-200.27,-0.039077,Technology,International,China Tech,2026-09-14
+GGAL,Grupo Financiero Galicia S.A.,100,43.9800,4398.00,42.9600,4296.00,0.015644,-102.00,-0.023192,Financials,International,Argentina Financials,2026-09-14
+VLERF,Valeura Energy,400,9.0300,3612.00,10.5800,4232.00,0.015411,620.00,0.171650,Energy,International,Oil & Gas Producers,2026-09-14
+TRMD,TORM plc,100,33.7300,3373.00,35.3400,3534.00,0.012869,161.00,0.047732,Shipping,International,Product Tanker Shipping,2026-09-14
+HAFN,Hafnia Limited,370,8.8275,3266.18,9.3300,3452.10,0.012571,185.92,0.056924,Shipping,International,Product Tanker Shipping,2026-09-14
+STNG,Scorpio Tankers Inc.,40,80.1100,3204.40,85.4600,3418.40,0.012448,214.00,0.066783,Shipping,International,Product Tanker Shipping,2026-09-14
+ASC,Ardmore Shipping Corporation,170,17.9700,3054.90,18.7500,3187.50,0.011608,132.60,0.043406,Shipping,International,Product Tanker Shipping,2026-09-14
