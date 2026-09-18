@@ -1,7 +1,7 @@
 field,value
-generated_utc,2026-09-17T23:35:30Z
+generated_utc,2026-09-18T23:25:31Z
 ledger_through,2026-09-15
-income_through,2026-09-17
+income_through,2026-09-18
 transaction_count,256
 cost_basis_method,FIFO
 opening_basis,"2023-11-30 market value, per November 2023 statement"
