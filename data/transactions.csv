@@ -563,3 +563,9 @@ date,ticker,name,action,quantity,price,fees,cash_flow,shares_delta,era
 2026-09-10,WDS,Woodside Energy,Sell,100,23.8420,0.04,2384.16,-100,model era
 2026-09-10,XOP,SPDR S&P Oil & Gas E&P ETF,Sell,70,196.2800,0.30,13739.30,-70,model era
 2026-09-15,PBF,PBF Energy,Sell,100,74.8104,0.00,7481.04,-100,model era
+2026-09-29,BG,Bunge Global,Buy,20,108.9700,0.00,-2179.40,20,model era
+2026-09-29,ENLAY,Enel S.p.A. (ADR),Sell,500,9.8860,5.16,4937.84,-500,model era
+2026-09-29,FIS,Fidelity National Information Services,Sell,140,33.4550,0.13,4683.57,-140,model era
+2026-09-29,UCO,ProShares Ultra Bloomberg Crude Oil,Buy,300,52.8700,0.00,-15861.00,300,model era
+2026-09-29,VIXY,ProShares VIX S-T,Buy,700,16.7850,0.00,-11749.50,700,model era
+2026-09-29,XOP,SPDR S&P Oil & Gas E&P ETF,Buy,80,179.1999,0.00,-14335.99,80,model era
