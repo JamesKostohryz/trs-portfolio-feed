@@ -569,3 +569,7 @@ date,ticker,name,action,quantity,price,fees,cash_flow,shares_delta,era
 2026-09-29,UCO,ProShares Ultra Bloomberg Crude Oil,Buy,300,52.8700,0.00,-15861.00,300,model era
 2026-09-29,VIXY,ProShares VIX S-T,Buy,700,16.7850,0.00,-11749.50,700,model era
 2026-09-29,XOP,SPDR S&P Oil & Gas E&P ETF,Buy,80,179.1999,0.00,-14335.99,80,model era
+2026-10-09,INTR,Inter & Co,Buy,400,7.5550,0.00,-3022.00,400,model era
+2026-10-09,NU,Nu Holdings,Buy,300,15.9473,0.00,-4784.20,300,model era
+2026-10-09,PAGS,PagSeguro Digital,Buy,450,11.0133,0.00,-4956.00,450,model era
+2026-10-09,STNE,StoneCo,Buy,300,12.1962,0.00,-3658.87,300,model era
