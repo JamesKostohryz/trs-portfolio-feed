@@ -573,3 +573,5 @@ date,ticker,name,action,quantity,price,fees,cash_flow,shares_delta,era
 2026-10-09,NU,Nu Holdings,Buy,300,15.9473,0.00,-4784.20,300,model era
 2026-10-09,PAGS,PagSeguro Digital,Buy,450,11.0133,0.00,-4956.00,450,model era
 2026-10-09,STNE,StoneCo,Buy,300,12.1962,0.00,-3658.87,300,model era
+2026-10-12,VIXY,ProShares VIX S-T,Buy,300,16.1000,0.00,-4830.00,300,model era
+2026-10-12,VLERF,Valeura Energy,Sell,400,11.5700,0.00,4628.00,-400,model era
