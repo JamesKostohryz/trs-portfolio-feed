@@ -575,3 +575,6 @@ date,ticker,name,action,quantity,price,fees,cash_flow,shares_delta,era
 2026-10-09,STNE,StoneCo,Buy,300,12.1962,0.00,-3658.87,300,model era
 2026-10-12,VIXY,ProShares VIX S-T,Buy,300,16.1000,0.00,-4830.00,300,model era
 2026-10-12,VLERF,Valeura Energy,Sell,400,11.5700,0.00,4628.00,-400,model era
+2026-10-14,GGAL,Grupo Financiero Galicia S.A.,Sell,100,36.0740,0.00,3607.40,-100,model era
+2026-10-14,KWEB,KraneShares CSI China Internet ETF,Sell,200,24.4350,0.00,4887.00,-200,model era
+2026-10-14,TRMD,TORM plc,Sell,100,39.8205,0.00,3982.05,-100,model era
