@@ -579,3 +579,5 @@ date,ticker,name,action,quantity,price,fees,cash_flow,shares_delta,era
 2026-10-14,KWEB,KraneShares CSI China Internet ETF,Sell,200,24.4350,0.00,4887.00,-200,model era
 2026-10-14,TRMD,TORM plc,Sell,100,39.8205,0.00,3982.05,-100,model era
 2026-10-16,PBF,PBF Energy,Buy,100,85.2350,0.00,-8523.50,100,model era
+2026-10-23,BNO,US Brent Oil Fund,Sell,200,70.6150,0.00,14123.00,-200,model era
+2026-10-23,UCO,ProShares Ultra Bloomberg Crude Oil,Sell,400,65.5650,0.00,26226.00,-400,model era
