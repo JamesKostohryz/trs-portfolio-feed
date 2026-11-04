@@ -581,3 +581,6 @@ date,ticker,name,action,quantity,price,fees,cash_flow,shares_delta,era
 2026-10-16,PBF,PBF Energy,Buy,100,85.2350,0.00,-8523.50,100,model era
 2026-10-23,BNO,US Brent Oil Fund,Sell,200,70.6150,0.00,14123.00,-200,model era
 2026-10-23,UCO,ProShares Ultra Bloomberg Crude Oil,Sell,400,65.5650,0.00,26226.00,-400,model era
+2026-11-04,KWEB,KraneShares CSI China Internet ETF,Buy,400,24.3600,0.00,-9744.00,400,model era
+2026-11-04,TCHI,iShares MSCI China Multisector Tech ETF,Buy,500,19.1000,0.00,-9550.00,500,model era
+2026-11-04,UCO,ProShares Ultra Bloomberg Crude Oil,Sell,200,56.9301,0.00,11386.02,-200,model era
