@@ -1,6 +1,7 @@
 ticker,name,shares,avg_cost_fifo,cost_basis_fifo,last_price,market_value,weight,unrealized_pnl,return_pct,sector,region,theme,price_asof
 XOP,SPDR S&P Oil & Gas E&P ETF,150,177.6449,26646.74,174.1500,26122.50,0.099313,-524.24,-0.019674,Energy,US,Oil & Gas Producers,2026-11-09
 BNO,US Brent Oil Fund,400,42.8625,17145.00,58.9300,23572.00,0.089617,6427.00,0.374861,Commodity/Energy,US,Crude Oil (beta),2026-11-09
+UCO,ProShares Ultra Bloomberg Crude Oil,400,50.0800,20032.00,50.0800,20032.00,0.076158,0.00,0.000000,Commodity/Energy,US,Crude Oil (2x leveraged),2026-11-10
 VIXY,ProShares VIX S-T,900,16.5567,14901.00,18.2100,16389.00,0.062308,1488.00,0.099859,Volatility,US,Volatility Hedge,2026-11-09
 TCHI,iShares MSCI China Multisector Tech ETF,720,20.3818,14674.90,18.7190,13477.68,0.051240,-1197.22,-0.081583,Technology,International,China Tech,2026-11-09
 YPF,YPF S.A.,300,37.3967,11219.00,38.0900,11427.00,0.043443,208.00,0.018540,Energy,International,Oil & Gas Producers,2026-11-09

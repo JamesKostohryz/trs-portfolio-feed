@@ -585,5 +585,6 @@ date,ticker,name,action,quantity,price,fees,cash_flow,shares_delta,era
 2026-11-04,TCHI,iShares MSCI China Multisector Tech ETF,Buy,500,19.1000,0.00,-9550.00,500,model era
 2026-11-04,UCO,ProShares Ultra Bloomberg Crude Oil,Sell,200,56.9301,0.00,11386.02,-200,model era
 2026-11-06,VIXY,ProShares VIX S-T,Sell,800,20.0600,0.00,16048.00,-800,model era
+2026-11-10,UCO,ProShares Ultra Bloomberg Crude Oil,Buy,400,50.0800,0.00,-20032.00,400,model era
 2026-11-10,VIST,Vista Energy,Buy,60,56.0500,0.00,-3363.00,60,model era
 2026-11-10,YPF,YPF S.A.,Buy,100,36.9000,0.00,-3690.00,100,model era
