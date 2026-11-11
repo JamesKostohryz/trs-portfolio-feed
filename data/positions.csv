@@ -1,23 +1,23 @@
 ticker,name,shares,avg_cost_fifo,cost_basis_fifo,last_price,market_value,weight,unrealized_pnl,return_pct,sector,region,theme,price_asof
-XOP,SPDR S&P Oil & Gas E&P ETF,150,177.6449,26646.74,174.1500,26122.50,0.099313,-524.24,-0.019674,Energy,US,Oil & Gas Producers,2026-11-09
-BNO,US Brent Oil Fund,400,42.8625,17145.00,58.9300,23572.00,0.089617,6427.00,0.374861,Commodity/Energy,US,Crude Oil (beta),2026-11-09
-UCO,ProShares Ultra Bloomberg Crude Oil,400,50.0800,20032.00,50.0800,20032.00,0.076158,0.00,0.000000,Commodity/Energy,US,Crude Oil (2x leveraged),2026-11-10
-VIXY,ProShares VIX S-T,900,16.5567,14901.00,18.2100,16389.00,0.062308,1488.00,0.099859,Volatility,US,Volatility Hedge,2026-11-09
-TCHI,iShares MSCI China Multisector Tech ETF,720,20.3818,14674.90,18.7190,13477.68,0.051240,-1197.22,-0.081583,Technology,International,China Tech,2026-11-09
-YPF,YPF S.A.,300,37.3967,11219.00,38.0900,11427.00,0.043443,208.00,0.018540,Energy,International,Oil & Gas Producers,2026-11-09
-VIST,Vista Energy,180,66.9456,12050.20,57.7400,10393.20,0.039513,-1657.00,-0.137508,Energy,International,Oil & Gas Producers,2026-11-09
-KWEB,KraneShares CSI China Internet ETF,400,24.3600,9744.00,24.3100,9724.00,0.036969,-20.00,-0.002053,Country Equity,International,China Internet,2026-11-09
-PBR,Petrobras,500,12.7868,6393.40,18.3500,9175.00,0.034882,2781.60,0.435074,Energy,International,Oil & Gas Producers,2026-11-09
-EQNR,Equinor ASA,220,38.0595,8373.08,41.1200,9046.40,0.034393,673.32,0.080415,Energy,International,Oil & Gas Producers,2026-11-09
-AKRVF,Aker BP ASA,250,31.6660,7916.50,33.5500,8387.50,0.031888,471.00,0.059496,Energy,International,Oil & Gas Producers,2026-11-09
-BG,Bunge Global,80,119.4437,9555.50,101.1800,8094.40,0.030774,-1461.10,-0.152907,Agriculture,US,Agribusiness,2026-11-09
-PBF,PBF Energy,100,85.2350,8523.50,69.5500,6955.00,0.026442,-1568.50,-0.184021,Energy,US,Refining,2026-11-09
-ITUB,Itau Unibanco Holding S.A.,700,7.6691,5368.37,7.5600,5292.00,0.020119,-76.37,-0.014226,Financials,International,Brazil Financials,2026-11-09
-CIG,Companhia Energetica de Minas Gerais (CEMIG),2500,1.9950,4987.50,1.9000,4750.00,0.018059,-237.50,-0.047619,Energy,International,Brazil Utility,2026-11-09
-NU,Nu Holdings,300,15.9473,4784.20,12.3600,3708.00,0.014097,-1076.20,-0.224949,Financials,International,Digital Banking,2026-11-09
-PAGS,PagSeguro Digital,450,11.0133,4956.00,7.9100,3559.50,0.013533,-1396.50,-0.281780,Financials,International,Payments/Fintech,2026-11-09
-HAFN,Hafnia Limited,370,8.8275,3266.18,9.1900,3400.30,0.012927,134.12,0.041065,Shipping,International,Product Tanker Shipping,2026-11-09
-STNG,Scorpio Tankers Inc.,40,80.1100,3204.40,79.6200,3184.80,0.012108,-19.60,-0.006117,Shipping,International,Product Tanker Shipping,2026-11-09
-ASC,Ardmore Shipping Corporation,170,17.9700,3054.90,17.2800,2937.60,0.011168,-117.30,-0.038397,Shipping,International,Product Tanker Shipping,2026-11-09
-STNE,StoneCo,300,12.1962,3658.87,7.7300,2319.00,0.008816,-1339.87,-0.366197,Financials,International,Payments/Fintech,2026-11-09
-INTR,Inter & Co,400,7.5550,3022.00,4.0000,1600.00,0.006083,-1422.00,-0.470549,Financials,International,Digital Banking,2026-11-09
+XOP,SPDR S&P Oil & Gas E&P ETF,150,177.6449,26646.74,175.5200,26328.00,0.100768,-318.74,-0.011962,Energy,US,Oil & Gas Producers,2026-11-10
+BNO,US Brent Oil Fund,400,42.8625,17145.00,58.3600,23344.00,0.089347,6199.00,0.361563,Commodity/Energy,US,Crude Oil (beta),2026-11-10
+UCO,ProShares Ultra Bloomberg Crude Oil,400,50.0800,20032.00,50.3300,20132.00,0.077053,100.00,0.004992,Commodity/Energy,US,Crude Oil (2x leveraged),2026-11-10
+VIXY,ProShares VIX S-T,900,16.5567,14901.00,18.1600,16344.00,0.062555,1443.00,0.096839,Volatility,US,Volatility Hedge,2026-11-10
+TCHI,iShares MSCI China Multisector Tech ETF,720,20.3818,14674.90,18.7238,13481.14,0.051598,-1193.76,-0.081347,Technology,International,China Tech,2026-11-10
+YPF,YPF S.A.,300,37.3967,11219.00,37.2800,11184.00,0.042806,-35.00,-0.003120,Energy,International,Oil & Gas Producers,2026-11-10
+VIST,Vista Energy,180,66.9456,12050.20,55.6000,10008.00,0.038305,-2042.20,-0.169474,Energy,International,Oil & Gas Producers,2026-11-10
+KWEB,KraneShares CSI China Internet ETF,400,24.3600,9744.00,24.0600,9624.00,0.036835,-120.00,-0.012315,Country Equity,International,China Internet,2026-11-10
+PBR,Petrobras,500,12.7868,6393.40,18.2800,9140.00,0.034982,2746.60,0.429599,Energy,International,Oil & Gas Producers,2026-11-10
+EQNR,Equinor ASA,220,38.0595,8373.08,40.6800,8949.60,0.034254,576.52,0.068854,Energy,International,Oil & Gas Producers,2026-11-10
+AKRVF,Aker BP ASA,250,31.6660,7916.50,33.0000,8250.00,0.031576,333.50,0.042127,Energy,International,Oil & Gas Producers,2026-11-10
+BG,Bunge Global,80,119.4437,9555.50,99.4200,7953.60,0.030442,-1601.90,-0.167642,Agriculture,US,Agribusiness,2026-11-10
+PBF,PBF Energy,100,85.2350,8523.50,65.9100,6591.00,0.025226,-1932.50,-0.226726,Energy,US,Refining,2026-11-10
+ITUB,Itau Unibanco Holding S.A.,700,7.6691,5368.37,7.3900,5173.00,0.019799,-195.37,-0.036393,Financials,International,Brazil Financials,2026-11-10
+CIG,Companhia Energetica de Minas Gerais (CEMIG),2500,1.9950,4987.50,1.8700,4675.00,0.017893,-312.50,-0.062657,Energy,International,Brazil Utility,2026-11-10
+NU,Nu Holdings,300,15.9473,4784.20,12.0800,3624.00,0.013871,-1160.20,-0.242507,Financials,International,Digital Banking,2026-11-10
+PAGS,PagSeguro Digital,450,11.0133,4956.00,7.6800,3456.00,0.013228,-1500.00,-0.302663,Financials,International,Payments/Fintech,2026-11-10
+HAFN,Hafnia Limited,370,8.8275,3266.18,9.1000,3367.00,0.012887,100.82,0.030869,Shipping,International,Product Tanker Shipping,2026-11-10
+STNG,Scorpio Tankers Inc.,40,80.1100,3204.40,80.5500,3222.00,0.012332,17.60,0.005492,Shipping,International,Product Tanker Shipping,2026-11-10
+ASC,Ardmore Shipping Corporation,170,17.9700,3054.90,17.9000,3043.00,0.011647,-11.90,-0.003895,Shipping,International,Product Tanker Shipping,2026-11-10
+STNE,StoneCo,300,12.1962,3658.87,7.6700,2301.00,0.008807,-1357.87,-0.371117,Financials,International,Payments/Fintech,2026-11-10
+INTR,Inter & Co,400,7.5550,3022.00,3.9600,1584.00,0.006063,-1438.00,-0.475844,Financials,International,Digital Banking,2026-11-10
