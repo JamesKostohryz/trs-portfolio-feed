@@ -589,3 +589,4 @@ date,ticker,name,action,quantity,price,fees,cash_flow,shares_delta,era
 2026-11-10,VIST,Vista Energy,Buy,60,56.0500,0.00,-3363.00,60,model era
 2026-11-10,YPF,YPF S.A.,Buy,100,36.9000,0.00,-3690.00,100,model era
 2026-11-16,UCO,ProShares Ultra Bloomberg Crude Oil,Buy,200,49.4400,0.00,-9888.00,200,model era
+2026-11-18,PBF,PBF Energy,Buy,50,62.2000,0.00,-3110.00,50,model era
