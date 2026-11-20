@@ -2,6 +2,7 @@ ticker,name,shares,avg_cost_fifo,cost_basis_fifo,last_price,market_value,weight,
 UCO,ProShares Ultra Bloomberg Crude Oil,700,49.6286,34740.00,48.9100,34237.00,0.133094,-503.00,-0.014479,Commodity/Energy,US,Crude Oil (2x leveraged),2026-11-19
 XOP,SPDR S&P Oil & Gas E&P ETF,150,177.6449,26646.74,169.9400,25491.00,0.099095,-1155.74,-0.043373,Energy,US,Oil & Gas Producers,2026-11-19
 BNO,US Brent Oil Fund,400,42.8625,17145.00,58.8400,23536.00,0.091495,6391.00,0.372762,Commodity/Energy,US,Crude Oil (beta),2026-11-19
+SVXY,ProShares Short VIX Short-Term Futures,300,49.5000,14850.00,49.5000,14850.00,0.057728,0.00,0.000000,Volatility,US,Short Volatility,2026-11-20
 TCHI,iShares MSCI China Multisector Tech ETF,820,19.9048,16321.90,17.0200,13956.40,0.054255,-2365.50,-0.144928,Technology,International,China Tech,2026-11-19
 PBR,Petrobras,700,13.7891,9652.40,16.2900,11403.00,0.044328,1750.60,0.181364,Energy,International,Oil & Gas Producers,2026-11-19
 YPF,YPF S.A.,300,37.3967,11219.00,33.2800,9984.00,0.038812,-1235.00,-0.110081,Energy,International,Oil & Gas Producers,2026-11-19
@@ -11,6 +12,7 @@ VIST,Vista Energy,180,66.9456,12050.20,50.1800,9032.40,0.035113,-3017.80,-0.2504
 EQNR,Equinor ASA,220,38.0595,8373.08,39.6900,8731.80,0.033944,358.72,0.042842,Energy,International,Oil & Gas Producers,2026-11-19
 KWEB,KraneShares CSI China Internet ETF,400,24.3600,9744.00,21.3100,8524.00,0.033136,-1220.00,-0.125205,Country Equity,International,China Internet,2026-11-19
 AKRVF,Aker BP ASA,250,31.6660,7916.50,32.8000,8200.00,0.031877,283.50,0.035811,Energy,International,Oil & Gas Producers,2026-11-19
+BVN,Compania de Minas Buenaventura S.A.A.,400,19.4274,7770.96,19.4274,7770.96,0.030209,0.00,0.000000,Basic Materials,International,Metals & Mining,2026-11-20
 CIG,Companhia Energetica de Minas Gerais (CEMIG),4000,1.9125,7650.00,1.8000,7200.00,0.027990,-450.00,-0.058824,Energy,International,Brazil Utility,2026-11-19
 NU,Nu Holdings,400,14.7980,5919.19,11.8200,4728.00,0.018380,-1191.19,-0.201242,Financials,International,Digital Banking,2026-11-19
 ITUB,Itau Unibanco Holding S.A.,700,7.6691,5368.37,6.6900,4683.00,0.018205,-685.37,-0.127668,Financials,International,Brazil Financials,2026-11-19
