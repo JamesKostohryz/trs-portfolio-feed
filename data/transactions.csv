@@ -594,6 +594,8 @@ date,ticker,name,action,quantity,price,fees,cash_flow,shares_delta,era
 2026-11-20,BVN,Compania de Minas Buenaventura S.A.A.,Buy,400,19.4274,0.00,-7770.96,400,model era
 2026-11-20,CIG,Companhia Energetica de Minas Gerais (CEMIG),Buy,1500,1.7750,0.00,-2662.50,1500,model era
 2026-11-20,INTR,Inter & Co,Buy,400,3.5988,0.00,-1439.52,400,model era
+2026-11-20,KWEB,KraneShares CSI China Internet ETF,Sell,400,20.7050,0.00,8282.00,-400,model era
+2026-11-20,KWEB,KraneShares CSI China Internet ETF,Buy,400,20.7500,0.00,-8300.00,400,model era
 2026-11-20,NU,Nu Holdings,Buy,100,11.3499,0.00,-1134.99,100,model era
 2026-11-20,PAGS,PagSeguro Digital,Buy,150,7.2450,0.00,-1086.75,150,model era
 2026-11-20,PBR,Petrobras,Buy,200,16.2950,0.00,-3259.00,200,model era
