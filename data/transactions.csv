@@ -603,3 +603,8 @@ date,ticker,name,action,quantity,price,fees,cash_flow,shares_delta,era
 2026-11-20,TCHI,iShares MSCI China Multisector Tech ETF,Buy,100,16.4700,0.00,-1647.00,100,model era
 2026-11-20,UCO,ProShares Ultra Bloomberg Crude Oil,Buy,100,48.2000,0.00,-4820.00,100,model era
 2026-11-20,VIXY,ProShares VIX S-T,Sell,900,23.8650,0.00,21478.50,-900,model era
+2026-11-23,AKRVF,Aker BP ASA,Sell,250,31.0200,0.00,7755.00,-250,model era
+2026-11-23,BNO,US Brent Oil Fund,Sell,200,56.9400,0.00,11388.00,-200,model era
+2026-11-23,KWEB,KraneShares CSI China Internet ETF,Sell,200,21.5501,0.00,4310.02,-200,model era
+2026-11-23,SVXY,ProShares Short VIX Short-Term Futures,Buy,300,51.5000,0.00,-15450.00,300,model era
+2026-11-23,UCO,ProShares Ultra Bloomberg Crude Oil,Buy,200,45.9930,0.00,-9198.60,200,model era
